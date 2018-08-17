@@ -1,0 +1,842 @@
+{
+  "A1": {
+    "name": "Proof of Hero (英雄の証)",    
+    "alias": ["proof", "proofs", "hero proof", "hero proofs", "Proof of Hero"],
+    "AP": "Okeanos - Pirate Ship\n海賊船\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_03_free.php)",
+    "drop": "America - Dallas\nダラス\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
+    "location": [
+      {
+        "name": "Orleans",
+        "value": "Domremy (ドンレミ)\nLa Charite (ラ・シャリテ)\nLyon (リヨン)\nMarseilles (マルセイユ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Appia Road (アッビア街道)\nRome (ローマ)\nFlorence (フロレンティア)\nMediolanum (メディオラヌム)\nMassilia (マッシリア)\nGaul (ガリア)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Pirate Ship (海賊船)\nPirate Island (海賊島)\nKing's Abode Island (王の住まう島)\nTwo-Current Sea (潮目の海)\nArchipelago - Quiet Bay(群島 - 静かな入り江)"
+      },
+      {
+        "name": "America",
+        "value": "Riverton (リバートン)\nLubbock (ラボック)\nDallas (ダラス)\nAlexandria (アレクサンドリア)\nAlcatraz (アルカトラズ)\nKearney (カーニー)\nMontgomery (モントゴメリー)\nCharlotte (シャーロット)\nWashington (ワシントン)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Fortress of the Round Table (円卓の砦)\nHoly City District (聖都市街)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Ys (イース)\nDragon Imperial Palace (竜宮城)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "All of Saber, Archer, Lancer and Berserker Training Ground"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/a/a7/Heros_proof.png"
+  },
+  "A2": {
+    "name": "Evil Bone (凶骨)",
+    "alias": ["bone", "bones", "Evil Bone"],
+    "AP": "Fuyuki - Unconfirmed Coordinate X-C\n未確認座標X-C\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_00_free.php)",
+    "drop": "Fuyuki - Unconfirmed Coordinate X-G\n未確認座標X-G\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_00_free.php)",
+    "location": [
+      {
+        "name": "Fuyuki",
+        "value": "All stages except Mobile Coordinate No.0 (変動座標点0号)"
+      },
+      {
+        "name": "Orleans",
+        "value": "Vaucouleurs (ヴォークルール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Germania (ゲルマニア)\nShapely Island (形ある島)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Sunken Rock Seas (暗礁海域)"
+      },
+      {
+        "name": "London",
+        "value": "Clerkenwell (クラーケンウェル)\nSouthwark (サザーク)\nHyde Park (ハイドパーク)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Desert Sandstorm (砂嵐の砂漠)"
+      },
+      {
+        "name": "Shimosa",
+        "value": "Battlefield (合戦場)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Lancer and Archer Training Ground (10AP and 20AP)\nSaber Training Ground (10AP)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/c/ca/Unlucky_bone.png"
+  },
+  "A3": {
+    "name": "Dragon Fang (竜の牙)",
+    "alias": ["fangs", "dragon fang", "dragon fangs", "fang"],
+    "AP": "America - Deming\nデミング\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
+    "drop": "Babylonia - Eridu\nエリドゥ\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Fuyuki",
+        "value": "Mobile Coordinate No.0 (変動座標点0号)"
+      },
+      {
+        "name": "Orleans",
+        "value": "Vaucouleurs (ヴォークルール)\nLa Charite (ラ・シャリテ)\nJula (ジュラ)\nThiers (ティエール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Mapped Island (地図に記された島)\nIsland of Wyverns (翼竜の島)\nArchipelago - Quiet Bay (群島 - 静かな入り江)"
+      },
+      {
+        "name": "America",
+        "value": "Deming (デミング)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Jungle at the Foothills (山裾の密林)"
+      },
+      {
+        "name": "Salem",
+        "value": "Jailhouse (留置所)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (10AP and 20AP)\nAll Rider and Assassin Training Ground\nSaber Training Ground (10AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/6/6f/Dragon_fang.png"
+  },
+  "A4": {
+    "name": "Void's Dust (虚影の塵)",
+    "alias": ["dust", "void dust", "void's dust"],
+    "AP": "America - Charlotte\nシャーロット\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
+    "drop": "America - Charlotte\nシャーロット\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
+    "location": [
+      {
+        "name": "Fuyuki",
+        "value": "Unknown Coordinates X-E\nUnknown Coordinates X-F\nUnknown Coordinates X-G\nMobile Coordinate No.0"
+      },
+      {
+        "name": "Orleans",
+        "value": "Jula (ジュラ)\nLyon (リヨン)\nThiers (ティエール)\nOrleans (オルレアン)\nParis (パリ)"
+      },
+      {
+        "name": "Rome",
+        "value": "Appia Road (アッビア街道)\nMassilia (マッシリア)\nGaul (ガリア)\nShapely Island (形ある島)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Pirate Island (海賊島)\nKing's Abode Island (王の住まう島)\nMapped Island (地図に記された島)\nArchipelago - Quiet Bay (群島 - 静かな入り江)"
+      },
+      {
+        "name": "London",
+        "value": "White Chapel (ホワイトチャペル)\nSoho (ソーホー)\nWestminster (ウェストミンスター)"
+      },
+      {
+        "name": "America",
+        "value": "Riverton (リバートン)\nDenver (デンバー)\nAlcatraz (アルカトラズ)\nDes Moines (デモイン)\nMontgomery (モントゴメリー)\nCharlotte (シャーロット)"
+      },
+      {
+        "name": "Camelot",
+        "value": "West Village Ruins (西の村跡)\nRoyal Castle (王城)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "National Highway 20 (国道20号)\nKabukicho (歌舞伎町)\nParty Venue (パーティ会場)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Ys (イース)\nFuyajo (不夜城)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Shimosa",
+        "value": "Village (里)\nBattlefield (合戦場)\nToke Castle (土気城)\nMountain Behind (裏山)\nArakawa Plains (荒川の原)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Cold-Numbed Church (悴む教会)\nSnowy Valley Citadel (大渓谷の砦) \nFoundation of a Giant Tree (大樹の根元)" 
+      },
+      {
+        "name": "Gotterdammerung",
+        "value": "Landing Point (ランディングポイント)\nNorthern Boundary (北の境界)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "All of Training Ground Missions"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/4/43/Voids_refuse.png"
+  },
+  "A5": {
+    "name": "Chain of Fools (愚者の鎖)",
+    "alias": ["chains", "chain", "chain of fools"],
+    "AP": "Camelot - Wilderness of Death\n死の荒野\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Wilderness of Death\n死の荒野\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "Camelot",
+        "value": "Great Temple (大神殿)\nWastelands of Death (死の荒野)\nHidden Village (隠れ村)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Northern Cliff (北の断崖)\nFuyajo (不夜城)"
+      },
+      {
+        "name": "Salem",
+        "value": "Wharf (波止場)\nSuburban Mansion (郊外の屋敷)"
+      }
+    ],
+    "img": "http://vignette4.wikia.nocookie.net/fategrandorder/images/5/55/Chains_of_The_Fool.png"
+  },
+  "A6": {
+    "name": "Deadly Poison Stinger (万死の毒針)",
+    "alias": ["stinger", "deadly poison stinger", "poison stinger", "stingers"],
+    "AP": "Babylonia - Field of Reeds\n葦の原\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Field of Reeds\n葦の原\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Babylon",
+        "value": "Plateau (高原)\nMarshland (湿原)\nReed Fields (葦の原)\nNorth Wall (北壁)\nNippur (ニップル)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Anchor Point (アンカーポイト)\nIce Cavern (氷穴窟)\nYaga Vyazma (ヤガ・ヴャジマ)\nGiant Tree Base (大樹の根元)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/c/cc/Stinger_of_Certain_Death.png"
+  },
+  "A7": {
+    "name": "Magical Cerebrospinal Fluid (魔術髄液)",
+    "alias": ["magical Cerebrospinal fluid", "fluid", "brain fluid", "cerebrospinal fluid"],
+    "AP": "Shinjuku - Shinjuku Station\n新宿駅\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "drop": "Shinjuku - Shinjuku Station\n新宿駅\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "location": [
+      {
+        "name": "Shinjuku",
+        "value": "Yoyogi 2-Choume (代々木二丁目)\nNational Highway 20 (国道20号)\nShinjuku Station (新宿駅)\nShinjuku 4-Choume (新宿四丁目)\nParty Venue (パーティ会場)\nShinjuku Imperial Garden (新宿御苑)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/b/bc/Magical_Cerebrospinal_Fluid_icon.png"
+  },
+  "A8": {
+    "name": "Iron Stake of Evening Tears (宵哭きの鉄杭)",
+    "alias": ["iron stake", "stake", "iron stake of evening tears", "stakes", "iron stakes"],
+    "AP": "Salem - Gallows Hill\nガローの丘\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "drop": "Salem - Gallows Hill\nガローの丘\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "location": [
+      {
+        "name": "Salem",
+        "value": "Carter Residence (カーター家)\nSuburban Mansion (郊外の屋敷)\nGallows Hill (ガローの丘)\nGrassland (牧草地)\nEmpty Residence (空き家)"
+      }
+    ],
+    "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/35/Iron_Stake.png"
+  },
+  "A9": {
+    "name": "Reactive Gunpowder (励振火薬)",
+    "alias": ["gunpowder", "reactive gunpowder", "stimulus gunpowder"],
+    "AP": "Anastasia - Yaga Smolensk\nヤガ・スモレンスク\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
+    "drop": "Anastasia - Yaga Smolensk\nヤガ・スモレンスク\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
+    "location": [
+      {
+        "name": "Anastasia",
+        "value": "Yaga Smolensk (ヤガ・スモレンスク)\nRebel Stronghold (叛逆軍の砦)\nYaga Sychyovka (ヤガ・スィチョーフカ)\nBurnt-Down Village (焼き払われた村)\nYaga Vyazma (ヤガ・ヴャジマ)\nYaga Tula (ヤガ・トゥーラ)\nGreat Valley Fortress (大渓谷の砦)"
+      }
+    ],
+    "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/af/Stimulus_Gunpowder.png"
+  },
+  "B1": {
+    "name": "Seed of Yggdrassil (世界樹の種)\n",
+    "alias": ["seeds", "seed", "seed of yggdrassil"],
+    "AP": "Babylonia - Abolished Metropolis Babylon\n廃都バビロン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Abolished Metropolis Babylon\n廃都バビロン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Orleans",
+        "value": "Jula (ジュラ)\nBordeaux (ボルドー)"
+      },
+      {
+        "name": "Rome",
+        "value": "Britannia (ブリタニア)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Caldera Island (カルデラの島)\nBountiful Sea (豊かな海)"
+      },
+      {
+        "name": "America",
+        "value": "Des Moines (デモイン)"
+      },
+      {
+        "name": "Babylonia",
+        "value": "Abandoned City Babylon (廃都バビロン)\nNorthern Hill (北の高台)\nBlack Cedar Forest(黒い杉の森)\nUr (ウル)\nPlateau (高原)\nMount Ebih (エビフ山)\nTemple of Fresh Blood (鮮血神殿)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)\nRiverside Town (川辺の町)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Shimosa",
+        "value": "Farm (田んぼ)\nVillage (里)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)\nEl Dorado (エルドラド)"
+      },
+      {
+        "name": "Salem",
+        "value": "Silent Forest (静寂な森)\nGrassland (牧草地)\nRefuge (隠れ家)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Yaga Sychyovka (ヤガ・スィチョーフカ)"
+      },
+      {
+        "name": "Gotterdammerung",
+        "value": "Landing Point (ランディングポイント)\nKnoll of Thin Ice (薄氷の丘)\n23rd Settlement (第23集落)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (All except 10AP)\nLancer Training Ground (All except 10AP)\nAssassin Training Ground (All except 10AP)\nSaber Training Ground (All except 10AP)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/4/41/Yggdrasil_seed.png"
+  },
+  "B2": {
+    "name": "Ghost Lantern (ゴーストランタン)",
+    "alias": ["lanterns", "lantern", "ghost lantern", "ghost lanterns"],
+    "AP": "Babylonia - Cuthah\nクタ\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Cuthah\nクタ\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Rome",
+        "value": "Mt. Etna (エトナ火山)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Stormy Seas (嵐の海域)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Evening Bell Mausoleum (晩鐘廟)"
+      },
+      {
+        "name": "Babylonia",
+        "value": "Cuthah (クタ)"
+      },
+      {
+        "name": "Shimosa",
+        "value": "Farm (田んぼ)\nHermitage (庵)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Assassin Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/b/b1/Ghost_lantern.png"
+  },
+  "B3": {
+    "name": "Octuplet Crystals (八連双晶)",
+    "alias": ["crystals", "crystal", "golem crystal", "golem crystals", "octuplet", "octuplet crystal", "octuplet crystals"],
+    "AP": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "Rome",
+        "value": "Gaul (ガリア)\nAlliance Capital (連合首都)"
+      },
+      {
+        "name": "Okeanos",
+        "value": "Two-Current Sea (潮目の海)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Holy City District (聖都市街)"
+      },
+      {
+        "Name": "Agartha",
+        "value": "Peach Blossom Village (桃源郷)"
+      },
+      {
+        "name": "shimosa",
+        "value": "Mountain Behind (裏山)"
+      },
+      {
+        "name": "Gotterdammerung",
+        "value": "Heroes' Cellar (英雄の穴倉)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Berserker Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/8/84/Octuplet_twin_crystals.png"
+  },
+  "B4": {
+    "name": "Serpent Jewel (蛇の宝玉)\n",
+    "alias": ["jewels", "jewel", "serpent jewel", "snake jewel", "serpent jewels"],
+    "AP": "Babylonia - Marshland\n湿原\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Chaldea (Fri) - Caster 30AP\n術上級",
+    "location": [
+      {
+        "name": "Okeanos",
+        "value": "Sunken Rock Seas (暗礁海域)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Dune of Dawn (明けの砂丘)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Marshland (湿原)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Fissure of the Land (大地の裂け目)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Caster Training Ground (All levels)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/2/28/Snake_jewel.png"
+  },
+  "B5": {
+    "name": "Phoenix Feather (鳳凰の羽根)",
+    "alias": ["plume", "plumes", "feather", "feathers", "phoenix plume", "phoenix plumes", "phoenix feather"],
+    "AP": "Salem - Public Chapel\n公会堂\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "drop": "Salem - Public Chapel\n公会堂\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "location": [
+      {
+        "name": "Okeanos",
+        "value": "Bountiful Sea (豊かな海)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)\nRiverside Town (川辺の町)\nJungle at the Foothills (山裾の密林)\nSubterranean River (地底大河)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Public Chapel (公会堂)\nWharf (波止場)\nEmpty Residence (空き家)\nRefuge (隠れ家)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Archer Training Ground (All except 10AP)\nLancer Training Ground (30AP and 40AP)\nSaber Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/c/c4/Phoenix_plume.png"
+  },
+  "B6": {
+    "name": "Eternal Gear (無間の歯車)",
+    "alias": ["gear", "gears", "eternal gear", "eternal gears"],
+    "AP": "Shinjuku - Party Hall\nバレルタワー\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "drop": "Shinjuku - Party Hall\nバレルタワー\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "location": [
+      {
+        "name": "London",
+        "value": "Old Street (オールドストリート)\nWhite Chapel (ホワイトチャペル)\nSoho (ソーホー)\nRegent Park (リージェントパーク)\nClerkenwell (クラーケンウェル)"
+      },
+      {
+        "name": "America",
+        "value": "Black Hills (ブラックヒルズ)\nDenver (デンバー)\nChicago (シカゴ)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Kabukicho (歌舞伎町)\nBarrel Tower (バレルタワー)\nParty Venue (パーティ会場)\nTower Top Floor (タワー最上階)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/d/d5/Infinity_gear.png"
+  },
+  "B7": {
+    "name": "Forbidden Page (禁断の頁)",
+    "alias": ["pages", "page", "forbidden page", "forbidden pages"],
+    "AP": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "drop": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "location": [
+      {
+        "name": "London",
+        "value": "Regent Park (リージェントパーク)\nHyde Park (ハイドパーク)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Atlas Academy (アトラス院)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku 2-Choume (新宿二丁目)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "All of Caster Training Ground"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/e6/Forbidden_page.png"
+  },
+  "B8": {
+    "name": "Homunculus Baby (ホムンクルスベビー)",
+    "alias": ["homunculus baby", "homunculus", "babies"],
+    "AP": "Salem - Whateley Residence\nウェイトリー家\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "drop": "Salem - Whateley Residence\nウェイトリー家\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "location": [
+      {
+        "name": "London",
+        "value": "City of London (シティ・オブ・ロンドン)\nSoho (ソーホー)\nWestminster (ウェストミンスター)\nSouthwark (サザーク)"
+      },
+      {
+        "name": "Salem",
+        "value": "Whateley Residence (ウェイトリー家)"
+      }
+    ],
+    "img": "http://vignette4.wikia.nocookie.net/fategrandorder/images/3/3c/Homunculus_baby.png"
+  },
+  "B9": {
+    "name": "Meteor Horseshoe (隕蹄鉄)",
+    "alias": ["shoe", "shoes", "horseshoe", "horseshoes", "meteoric horseshoe"],
+    "AP": "Camelot - Vast Land of Nothingness\n無の大地\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Vast Land of Nothingness\n無の大地\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "Okeanos",
+        "value": "Caldera Island (カルデラの島)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Vast Land of Nothingness (無の大地)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/3/34/Meteoric_horseshoe.png"
+  },
+  "B10": {
+    "name": "Great Knight Medal (大騎士勲章)",
+    "alias": ["medal", "medals", "great knight medal"],
+    "AP": "Camelot - Sovereign Castle\n王城\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Sovereign Castle\n王城\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "Camelot",
+        "value": "Holy City Main Gates (聖都正門)\n Fortress of the Round Table (円卓の砦)\nRoyal Castle (王城)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/6/67/Medal_of_Great_Knight.png"
+  },
+  "B11": {
+    "name": "Shell of Recollection (追憶の貝殻)",
+    "alias": ["shell", "shells", "seashells", "seashell", "shell of recollection"],
+    "AP": "Babylonia - Observatory\n観測所\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Observatory\n観測所\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Okeanos",
+        "value": "Archipelago - Hidden Island (群島 - 隠された島)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Observatory (観測所)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Ice Cavern (氷穴窟)\nBurnt-Down Village (焼き払われた村)\nDestroyed Village (潰れた村)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/eb/Seashell.png"
+  },
+  "B12": {
+    "name": "Kotan Magatama (枯淡勾玉)",
+    "alias": ["magatama", "magatamas", "kotan magatama"],
+    "AP": "shimosa - Castle Town\n城下町\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_03_free.php)",
+    "drop": "shimosa - Castle Town\n城下町\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_03_free.php)",
+    "location": [
+      {
+        "name": "shimosa",
+        "value": "All nodes but Farm (田んぼ)"
+      }
+    ],
+    "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9c/Kotan_Magatama.png"
+  },
+  "B13": {
+    "name": "Eternal Frost (永遠結氷)",
+    "alias": ["ice crystal", "eternal frost", "ice crystals"],
+    "AP": "Anastasia - Yaga Moskva\nヤガ・モスクワ\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
+    "drop": "Anastasia - Yaga Moskva\nヤガ・モスクワ\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
+    "location": [
+      {
+        "name": "Anastasia",
+        "value": "Yaga Demensk (ヤガ・ジェメンスク)\nYaga Tula (ヤガ・トゥーラ)\nDestroyed Village (潰れた村)\nYaga Moskva (ヤガ・モスクワ)\nGiant Tree Base (大樹の根元)\nYaga Ryazan (ヤガ・リャザン)"
+      }
+    ],
+    "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/84/Permafrost_Ice_Crystal.png"
+  },
+  "B14":{
+    "name": "Aurora Steel (オーロラ鋼)",
+    "alias": ["steel", "aurora steel"],
+    "AP": "Gotterdammerung - Neuschwanstein Castle\n雪と氷の城\n[Map link](http://fate-go.cirnopedia.org/quest_chapter_lostbelt_02_free.php)",
+    "drop": "Gotterdammerung - Neuschwanstein Castle\n雪と氷の城\n[Map link](http://fate-go.cirnopedia.org/quest_chapter_lostbelt_02_free.php)",
+    "location": [
+      {
+        "name": "Gotterdammerung",
+        "value": "Closed Shelter (クローズドシェルター)\nClone Shelter(クローンシェルター)\nViaduct of Ice(氷の架け橋)\nNeuschwanstein Castle(雪と氷の城)\nArmory of Dead Warriors(死せる戦士たちの武器庫)"
+      }
+    ],
+    "img": "https://vignette3.wikia.nocookie.net/fategrandorder/images/e/e7/Aurora_Steel.png"
+  },
+  "B15":{
+    "name": "Giant's Ring (巨人の指輪)",
+    "alias": ["ring", "rings", "giant ring", "giants ring"],
+    "AP": "Gotterdammerung - Giants' Flower Patio\n巨人の花園\n[Map link](http://fate-go.cirnopedia.org/quest_chapter_lostbelt_02_free.php)",
+    "drop": "Gotterdammerung - Giants' Flower Patio\n巨人の花園\n[Map link](http://fate-go.cirnopedia.org/quest_chapter_lostbelt_02_free.php)",
+    "location": [
+      {
+        "name": "Gotterdammerung",
+        "value": "Snowscape (銀世界)\nGiants' Flower Patio (巨人の花園)\nCave of Heroes (皇帝の寝床)\nNorth Boundary (限界領域)\nNeuschwanstein Castle(雪と氷の城)\nExquisite Canyon (絶佳峡谷)"
+      }
+    ],
+    "img": "https://vignette3.wikia.nocookie.net/fategrandorder/images/b/b3/Giant%27s_Ring.png"
+  },
+  "C1": {
+    "name": "Claw of Chaos (混沌の爪)",
+    "alias": ["claws", "chimera claw", "claw", "chimera claws", "claw of chaos", "talon of chaos", "talon", "talons"],
+    "AP": "America - Des Moines\nデモイン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_05_free.php)",
+    "drop": "Anastasia - Yaga Ryazan\nヤガ・リャザン\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_lostbelt_01_free.php)",
+    "location": [
+      {
+        "name": "Rome",
+        "value": "Germania (ゲルマニア)"
+      },
+      {
+        "name": "America",
+        "value": "Des Moines (デモイン)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Ur (ウル)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku 4-Choume (新宿四丁目)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Subterranean Plain (地底平原)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Yaga Ryazan (ヤガ・リャザン)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Berserker Training Ground (all except 10AP)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/6/67/Talon_of_chaos.png"
+  },
+  "C2": {
+    "name": "Heart of a Foreign God (蛮神の心臓)",
+    "alias": ["heart", "hearts", "heart of a foreign god"],
+    "AP": "Shinjuku - Shinjuku Imperial Garden\n新宿御苑\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "drop": "Shinjuku - Shinjuku Imperial Garden\n新宿御苑\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "location": [
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku Imperial Garden (新宿御苑)"
+      },
+      {
+        "name": "Salem",
+        "value": "Carter Residence (カーター家)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Caster Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/e/ec/Heart_of_a_foreign_god.png"
+  },
+  "C3": {
+    "name": "Dragon's Reverse Scale (竜の逆鱗)",
+    "alias": ["scale", "scales", "wing", "wings", "dragon wing", "dragon wings", "dragon's reverse scale", "reverse scale"],
+    "AP": "Babylonia - Nippur\nニップル\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Nippur\nニップル\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Babylon",
+        "value": "Nippur (ニップル)"
+      },
+      {
+        "name": "Daily Missions",
+        "value": "Rider Training Ground (30AP and 40AP)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/c/c8/Dragons_reverse_scale.png"
+  },
+  "C4": {
+    "name": "Spirit Root (精霊根)",
+    "alias": ["root", "roots", "spirit root"],
+    "AP": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Holy City Districts\n聖都市街\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "America",
+        "value": "Washington (ワシントン)"
+      },
+      {
+        "name": "Camelot",
+        "value": "Holy City District (聖都市街)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Tower Top Floor (タワー最上階)"
+      },
+      {
+        "name": "Gotterdammerung",
+        "value": "Forgotten Temple (忘れられた神殿)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/7/7b/Spiritroot.png"
+  },
+  "C5": {
+    "name": "Warhorse's Young Horn (戦馬の幼角)",
+    "alias": ["horn", "horns", "warhorse horn", "warhorse's young horn"],
+    "AP": "Camelot - Eastern Village\n東の村\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Eastern Village\n東の村\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "America",
+        "value": "Kearney (カーニー)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Campsite (野営地)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Anchor Point (アンカーポイト)\nRebel Stronghold (叛逆軍の砦)\nYaga Demensk (ヤガ・ジェメンスク)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/b/b9/Horsehorn.png"
+  },
+  "C6": {
+    "name": "Tearstone of Blood (血の涙石)",
+    "alias": ["tears", "tearstone", "tear", "tearstone of blood", "bloodstone tear", "bloodstone tears"],
+    "AP": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "drop": "Shinjuku - Shinjuku 2-chome\n新宿二丁目\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_01_free.php)",
+    "location": [
+      {
+        "name": "America",
+        "value": "Alexandria (アレクサンドリア)"
+      },
+      {
+        "name": "Shinjuku",
+        "value": "Shinjuku 2-Choume (国道20号)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/f/ff/Bloodtear.png"
+  },
+  "C7": {
+    "name": "Black Beast Grease (黒獣脂)",
+    "alias": ["greese", "black goo", "black beast grease", "black tallow", "tallow", "tallows"],
+    "AP": "Babylonia - Northern Hill\n北の高台\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Northern Hill\n北の高台\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "America",
+        "value": "Lubbock (ラボック)"
+      },
+      {
+        "name": "Babylon",
+        "value": "Northern Hill (北の高台)"
+      },
+      {
+        "name": "Agartha",
+        "value": "Northern Cliff (北の断崖)"
+      }
+    ],
+    "img": "http://vignette1.wikia.nocookie.net/fategrandorder/images/4/49/Blacktallow.png"
+  },
+  "C8": {
+    "name": "Lamp of Sealed Evil (封魔のランプ)",
+    "alias": ["lamp", "lamps", "lamp of sealed evil", "lamp of demon sealing"],
+    "AP": "Salem - Jailhouse\n留置所\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "drop": "Salem - Jailhouse\n留置所\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_04_free.php)",
+    "location": [
+      {
+        "name": "Camelot",
+        "value": "Dune of Dawn (明けの砂丘)\nHidden Village (隠れ村)"
+      },
+      {
+        "name": "Salem",
+        "value": "Jailhouse (留置所)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/8/88/Lamp_of_Demon_Sealing.png"
+  },
+  "C9": {
+    "name": "Scarab of Wisdom (智慧のスカラベ)",
+    "alias": ["scarab", "scarabs", "scarab of wisdom"],
+    "AP": "Camelot - Great Temple\n大神殿\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "drop": "Camelot - Great Temple\n大神殿\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_06_free.php)",
+    "location": [
+      {
+        "name": "Camelot",
+        "value": "Desert Sandstorm (砂嵐の砂漠)\nGreat Temple (大神殿)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/c/c2/Scarab_of_Wisdom.png"
+  },
+  "C10": {
+    "name": "Primordial Lanugo (原初の産毛)",
+    "alias": ["lanugo", "tail", "tails", "beast hair", "lanugos", "primordial lanugo"],
+    "AP": "Babylonia - Blood Fort Andromeda\n鮮血神殿\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Blood Fort Andromeda\n鮮血神殿\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Babylon",
+        "value": "Black Cedar Forest (黒い杉の森)\nNorth Wall (北壁)\nTemple of Fresh Blood (鮮血神殿)"
+      }, 
+      {
+        "name": "Gotterdammerung",
+        "value": "Pathway Towards the Peak (果てへと至る道)\n67th Settlement(第67集落)\nLanding Point(ランディングポイント)"
+      }
+    ],
+    "img": "http://vignette2.wikia.nocookie.net/fategrandorder/images/f/f6/Primordial_Lanugo.png"
+  },
+  "C11": {
+    "name": "Cursed Beast Gallstone (呪獣胆石)",
+    "alias": ["brain", "brains", "gallstone", "beast cholecyst", "cyst", "beast gallstone"],
+    "AP": "Babylonia - Mount Ahvāz\nエビフ山\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "drop": "Babylonia - Mount Ahvāz\nエビフ山\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_07_free.php)",
+    "location": [
+      {
+        "name": "Babylon",
+        "value": "Mount Ebih (エビフ山)"
+      },
+      {
+        "name": "shimosa",
+        "value": "Arakawa Plains (荒川の原)"
+      }
+    ],
+    "img": "http://vignette3.wikia.nocookie.net/fategrandorder/images/5/59/Cursed_Beast_Cholecyst.png"
+  },
+  "C12": {
+    "name": "Chichi Divine Wine (奇奇神酒)",
+    "alias": ["wine", "divine wine", "god wine"],
+    "AP": "Agartha - Dragon Imperial Palace\n竜宮城\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_02_free.php)",
+    "drop": "Agartha - Dragon Imperial Palace\n竜宮城\n[Map link](https://fate-go.cirnopedia.org/quest_chapter_epic_02_free.php)",
+    "location": [
+      {
+        "name": "Agartha",
+        "value": "Dragon Imperial Palace (竜宮城)"
+      },
+      {
+        "name": "shimosa",
+        "value": "Toke Castle (土気城)"
+      },
+      {
+        "name": "Anastasia",
+        "value": "Great Valley Fortress (大渓谷の砦)"
+      }
+    ],
+    "img": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a8/Bizarre_God_Wine.png"
+  }
+}

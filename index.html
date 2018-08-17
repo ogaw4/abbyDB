@@ -1,0 +1,259 @@
+<!doctype html>
+<html>
+  <head>
+    <title>FGO Item Drop List</title>
+    <style>
+      body {
+        background: #cacaca;
+      }
+      input {
+        display: block;
+        width: 100%;
+        padding: 5px 10px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+      }
+      button {
+        width: 100%;
+        padding: 5px 0;
+      }
+      h2, h3 {
+        margin: 0;
+        margin-top: 20px;
+      }
+      #header {
+        margin-bottom: 10px;
+        text-align: center;
+      }
+      #header div {
+        margin-top: 100px;
+        font-size: 30px;
+        font-weight: bold;
+      }
+      #content {
+        background: white;
+        width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        margin-bottom: 100px;
+      }
+      #itemList {
+        display: none;
+      }
+      .item {
+        float: left;
+        width: 50%;
+      }
+      .item a {
+        display: flex;
+        align-items: center;
+        color: black;
+        text-decoration: none;
+        height: 110px;
+      }
+      .item div {
+        padding: 5px;
+        float: left;
+      }
+      .id {
+        display: block;
+        font-weight: bold;
+      }
+      .thumb {
+        width: 30%;
+      }
+      .thumb img {
+        width: 100%;
+      }
+      .name {
+        width: 60%;
+      }
+      #itemToggle {
+        color: white;
+        background: #3c3c3c;
+        clear: both;
+        display: block;
+        padding: 10px 0;
+        text-align: center;
+        text-decoration: none;
+        margin-bottom: 10px;
+      }
+      #result, #noresult {
+        display: none;
+        padding-top: 10px;
+      }
+      #result a {
+        color: #525252;
+        text-decoration: none;
+      }
+      #thumbnail {
+        float: right;
+        height: 80px;
+        padding-left: 10px;
+      }
+      #title {
+        font-size: 25px;
+        margin: 0;
+        padding: 11.5px 0;
+        color: #525252;
+      }
+      #loading {
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: black;
+        background-position: center;
+        background-repeat: no-repeat;
+        transition: 0.8s;
+      }
+      #map_container {
+        position: fixed;
+        background: #000000e6;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        display: none;
+        opacity: 0;
+        transition: opacity 0.8s;
+      }
+      #map {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 70%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <div>FGO Item Drop list</div>
+      By Aister
+    </div>
+    <div id="content">
+      <div id="itemList"></div>
+      <a href="#" id="itemToggle" onclick="showItem(this)">Show Item List</a>
+      <form onsubmit="event.preventDefault(); search()" style="clear: both">
+        <input type="text" id="item">
+        <button type="submit">Search</button>
+      </form>
+      <div id="result">
+        <img id="thumbnail">
+        <h1 id="title"></h1>
+        <div id="list" style="clear: both"></div>
+      </div>
+      <div id="noresult">
+        <div style='font-size: 20px; text-align: center'>Can't find such item, please check your input again</div>
+      </div>
+    </div>
+    <div id="loading"></div>
+    <div id="map_container">
+      <div id="map"></div>
+    </div>
+    <script>
+      function loadImage(data) {
+        return new Promise(function (resolve, reject) {
+          let load = new Image();
+          load.onload = function() { resolve(data); }
+          load.src = data.img;
+        });
+      }
+      function ID (id) { return document.getElementById(id); }
+      let items = {};
+      function load() {
+        loadImage({img: 'images/loading.gif'}).then(data => {
+          ID('loading').style.backgroundImage = `url("${data.img}")`;      
+          fetch('item.json').then(response => response.json()).then(result => {
+            items = result;
+            itemList().then(function() {
+              setTimeout(function() {
+                ID('loading').style.opacity = 0;
+                setTimeout(function() {
+                  ID('loading').style.display = 'none';
+                }, 1000);
+              }, 3000);
+            });
+          });
+        });
+      }
+      load();
+      function showItem(obj) {
+        let itemList = ID('itemList');
+        if (itemList.style.display == "block") {
+          itemList.style.display = 'none';
+          obj.innerHTML = 'Show Item List';
+        } else {
+          itemList.style.display = 'block';
+          obj.innerHTML = 'Hide Item List';
+        }
+      }
+      function itemList() {
+        return new Promise(function (resolve, reject) {
+          let itemList = [];
+          for (index in items) {
+            let item = items[index];
+            item.id = index;
+            itemList.push(loadImage(item));
+          }
+          Promise.all(itemList).then(function(item) {
+            itemList = item.map(function(index) {
+              return `<a href="javascript: search('${index.id}')"><div class="thumb"><img src="${index.img}"></div><div class="name">${index.name}<span class="id">ID: ${index.id}</span></div></a>`;
+            });
+            ID('itemList').innerHTML = `<div class="item">${itemList.join('</div><div class="item">')}</div>`;
+            resolve();
+          });
+        });
+      }
+      function search (searchTerm) {
+        ID('thumbnail').src = "";
+        ID('title').innerHTML = "";
+        ID('list').innerHTML = "";
+        let input = searchTerm || ID('item').value;
+        ID('item').value = "";
+        ID('item').blur();
+
+        if (!(item = items[input.toUpperCase()])) {
+          for (index in items) {
+            i = items[index];
+            if (i.name.toLowerCase().includes(input.toLowerCase())) {
+              input = index;
+              item = i;
+            }
+          }
+        } 
+        if (item) {
+          ID('title').innerHTML = `${item.name}<br>ID: ${input}`;
+          ID('thumbnail').src = item.img;
+          let html = item.location.map(function (item) {
+            if (item.name != "Daily Missions") return `<h3><a href="javascript: map('${item.name.toLowerCase()}');">${item.name}</a></h3><div>${item.value}</div>`;
+            else return `<h3>${item.name}</h3><div>${item.value}</div>`;
+          });
+          ID('list').innerHTML = `<h2>Most efficient</h2><div>${item.AP}</div><h2>Highest Drop Rate</h2><div>${item.drop}</div><h2>Other Drop Locations</h2><div style="margin-left: 30px">${html.join('')}</div>`.replace(/\n/g, '<br>').replace(/\[[^)]+\)/g, '');
+          ID('result').style.display = 'block';
+          ID('noresult').style.display = 'none';
+          ID('result').scrollIntoView();
+        } else {
+          ID('noresult').style.display = 'block';
+          ID('result').style.display = 'none';
+          ID('noresult').scrollIntoView();
+        }
+      }
+      function map(location) {
+        ID('map').style.backgroundImage = `url('maps/${location}.png')`;
+        ID('map_container').style.display = "block";
+        setTimeout(function() {
+          ID('map_container').style.opacity = 1;
+        }, 1);
+      }
+      ID('map_container').onclick = function() {
+        ID('map_container').style.opacity = 0;
+        setTimeout(function() {
+          ID('map_container').style.display = "none";
+        }, 1000);
+      }
+    </script>
+  </body>
+</html>
