@@ -4360,7 +4360,7 @@
     "alias": ["swimsuit jalter", "berserker jalter", "jalter berserker", "jaltzer"]
   },
   "220": {
-    "rarity": "5",
+   "rarity": "5",
     "attacks": "0102020303",
     "id": "220",
     "name": "BB",
@@ -4376,10 +4376,10 @@
     "NP": "(Buster)\nCused Cutting Crater EX\nC.C.C.\nDeal heavy damage to all enemies <LEVEL>Decrease ChargeLow chance to decrease Charge again <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Chaotic Evil",
     "desc": "",
-    "item": "\n\n\n\n\n\n\n\n",
+    "item": "Saber Piece: 5\nBerserker Piece: 5\n\nSaber Piece: 12\nBerserker Piece: 12\n\nSaber Monument: 5\nBerserker Monument: 5\n\nSaber Monument: 12\nBerserker Monument: 12\n\n",
     "alias": ["swimsuit BB", "summer BB"]
   },
-  "221": {
+  "221": {    
     "rarity": "4",
     "attacks": "0102020303",
     "id": "221",
@@ -4396,7 +4396,7 @@
     "NP": "(Arts)\nOne Shot My Love A+\nMy Dear Summer Date\nDeal significant damage to a single enemy <LEVEL>Chance to trigger a <U+FF62>Nice Shot!<U+FF63> up to 5 timesDecrease DEF for each <U+FF62>Nice Shot!<U+FF63> triggered\nTarget: Enemy",
     "alignment": "Chaotic Evil",
     "desc": "",
-    "item": "\n\n\n\n\n\n\n\n",
+    "item": "Saber Piece: 4\n\nSaber Piece: 10\nShell of Reminiscence: 6\n\nSaber Monument: 4\nPrimordial Lanugo: 5\nPhoenix Feather: 4\n\nSaber Monument: 10\nPhoenix Feather: 7\nSpirit Root: 4\n\n",
     "alias": ["swimsuit thot", "swimsuit medb", "saber medb"]
   },
   "222": {
@@ -4416,7 +4416,7 @@
     "NP": "(Arts)\nOrder of the Ethereal Universe EX\nAzure Shining Galaxy COSMOS\nIncrease own ATK (1 turn) <OVERCHARGE>Deal significant damage to a single enemy <LEVEL>Special Attack [Saber-class Servant]\nTarget: Self / Enemy",
     "alignment": "Lawful Good",
     "desc": "",
-    "item": "\n\n\n\n\n\n\n\n",
+    "item": "Dragon Fang: 8\nEternal Gear: 8\n\nBlack Beast Grease: 8\nGreat Knight Medal: 8\n\nTearstone of Blood: 8\nRing of Giants: 8\n\nDragon's Reverse Scale: 8\nPrimordial Lanugo: 8\n\n",
     "alias": ["MHXX", "mecha MHX", "mysterious heroine XX"]
   }
 }
