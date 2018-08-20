@@ -1109,7 +1109,7 @@
     "alignment": "Lawful Good",
     "desc": "One of the big four of Minamoto no Yorimitsu, the strongest mystery killer of the Heian Period. Possessing the childhood name of <U+FF62>Kintarou<U+FF63>, his popularity in Japan stands in line with Momotarou. A rowdy, insolent and dangerous man but-- in fact, he is righteous, honorable fellow with deep passions. His favorite phrase is <U+FF62>gold<U+FF63> and <U+FF62>golden<U+FF63>. His favorite dog is the Golden Retriever.Sakata Kintoki is perhaps a hero that can be described as the prototype of Kintarou, a hero as famous as Momotarou in Japan. Rowdy, insolent, passionate, easily moved to tears and a fine fellow overflowing with sense of justice. He likes to say <U+FF62>gold<U+FF63> and <U+FF62>golden<U+FF63> all the time. His favorite dog is the Golden Retriever.",
     "item": "Berserker Piece: 5\n\nProof of Hero: 22\nBerserker Piece: 12\n\nSeed of Yggdrassil: 6\nOctuplet Crystals: 10\nBerserker Monument: 5\n\nSeed of Yggdrassil: 12\nHeart of the Foreign God: 5\nBerserker Monument: 12\n\n",
-    "alias": ["kintoki", "brotoki", "berserker kintoki"],
+    "alias": ["kintoki", "brotoki", "berserker kintoki", "golden"],
     "sex": "M"
   },
   "052": {
@@ -2726,7 +2726,7 @@
     "alignment": "Neutral Summer",
     "desc": "When talking about summer, there's the beach.When talking about beach, there's the parasol.When talking about parasol, there's your dependable miko-fox.This is, surely, the common sense of the Ashihara no Kuni...!A solar explosion.Making a wet T-shirt and a swim ring as her weapons, Lancer Tamamo-chan, sunshining on the southern countries!",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nPhoenix Feather: 6\n\nLancer Monument: 5\nSeed of Yggdrassil: 12\nWarhorse's Young Horn: 3\n\nLancer Monument: 12\nWarhorse's Young Horn: 6\nShell of Reminiscence: 12\n\n",
-    "alias": ["tamalancer", "swimsuit tamamo"],
+    "alias": ["tamalancer", "swimsuit tamamo", "summer tamamo", "tama summer", "tamamo summer"],
     "sex": "F"
   },
   "129": {
@@ -2747,7 +2747,7 @@
     "alignment": "Lawful Good",
     "desc": "A king of the beach that descended on the summer sea. Since all the duties as a king were left behind at the office in this occasion, she is completely adapting to the summer's sunlight. As she was not able to fully enjoy swimming due certain circumstances, Altria was having fun with watermelon splitting at the beach when she met the water blitz (a survival game using water guns), and turned out like this by the time anyone noticed. It goes without saying that she, who hates to lose, is aiming at becoming world champion.---at that day, she met her (relatively trivial) fate.",
     "item": "Archer Piece: 5\n\nArcher Piece: 12\nShell of Reminiscence: 8\n\nArcher Monument: 5\nDragon Fang: 24\nGreat Knight Medal: 10\n\nArcher Monument: 12\nGreat Knight Medal: 20\nDragon's Reverse Scale: 5\n\n",
-    "alias": ["archuria", "squirtoria", "swimsuit artoria", "artoria pendragon archer"],
+    "alias": ["archuria", "squirtoria", "swimsuit artoria", "artoria pendragon archer", "summer artoria", "summer arturia"],
     "sex": "F"
   },
   "130": {
@@ -2768,7 +2768,7 @@
     "alignment": "Lawful Good",
     "desc": "---sparkling radiance, a queen consort that shines on the beach.",
     "item": "Caster Piece: 4\n\nCaster Piece: 10\nSeed of Yggdrassil: 8\n\nCaster Monument: 4\nShell of Reminiscence: 8\nPhoenix Feather: 4\n\nCaster Monument: 10\nPhoenix Feather: 7\nScarab of Wisdom: 4\n\n",
-    "alias": ["marie caster", "swimsuit marie", "caster marie"],
+    "alias": ["marie caster", "swimsuit marie", "caster marie", "summer marie"],
     "sex": "F"
   },
   "131": {
@@ -2789,7 +2789,7 @@
     "alignment": "Chaotic Neutral",
     "desc": "Anne Bonny and Mary Read. An uncommon pair of female pirates, but this time they appear care freely on swimsuits. With a <U+FF62>Bonny!<U+FF63> feeling, Anne assaults the Master in a high exposure degree swimsuit, while Mary sulks in dere with a physique that has a <U+FF62>Read!<U+FF63> feeling - turning into a pincer attack.",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nSerpent Jewel: 5\n\nArcher Monument: 4\nOctuplet Crystals: 8\nShell of Reminiscence: 4\n\nArcher Monument: 10\nShell of Reminiscence: 8\nClaw of Chaos: 6\n\n",
-    "alias": ["swimsuit anne and mary", "swimsuit anne & mary", "archer anne and mary", "archer anne & mary", "anne marry"],
+    "alias": ["swimsuit anne and mary", "swimsuit anne & mary", "archer anne and mary", "archer anne & mary", "anne mary", "summer anne mary", "summer anne and mary"],
     "sex": "F"
   },
   "132": {
@@ -2831,7 +2831,7 @@
     "alignment": "Neutral Good",
     "desc": "The queen of the foreign territory & haunted ground called <U+FF62>Land of Shadows<U+FF63> and mentor of warriors, Scathach--- or so should be. But, at this occasion, she carried out the reckless deed of changing herself and several other female Servants around into swimsuits, all under the guise of adapting to the environment. The result is this summer-style that you see. Scathach's own testimony is \"it is fine to act like this sometimes\".",
     "item": "Bell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\n",
-    "alias": ["swimsuit shishou", "assassin shishou", "swimsuit scathach", "summer scathach", "summer shishou"],
+    "alias": ["swimsuit shishou", "assassin shishou", "swimsuit scathach", "summer scathach", "summer shishou", "assassin scathach"],
     "sex": "F"
   },
   "134": {
@@ -2852,7 +2852,7 @@
     "alignment": "Chaotic Evil",
     "desc": "Burn, burn, burnburnburnburnburnburnBURN------ alas, this is surely a passionate love! VEX-A-TION! As you can see, this is Miss Kiyohime on a strange high tension. Hey you! Don't go saying that her tension being strange is an everyday occurrence.",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nOctuplet Crystals: 6\n\nLancer Monument: 4\nShell of Reminiscence: 8\nBlack Beast Grease: 3\n\nLancer Monument: 10\nBlack Beast Grease: 5\nLamp of Evil-Sealing: 6\n\n",
-    "alias": ["kiyo lancer", "swimsuit kiyo", "summer kiyo", "swimsuit kiyohime", "kiyohime lancer", "lancer kiyohime", "kiyolancer"],
+    "alias": ["kiyo lancer", "swimsuit kiyo", "summer kiyo", "swimsuit kiyohime", "kiyohime lancer", "lancer kiyohime", "kiyolancer", "summer kiyo", "summer kiyohime"],
     "sex": "F"
   },
   "135": {
@@ -2915,7 +2915,7 @@
     "alignment": "Chaotic Good",
     "desc": "The half that separated from that manifested by acquiring the mold of a certain heroic spirit. Unbefitting her childish appearance, she constantly manipulate the surrounding people with an alluring behavior. The self-alleged <U+FF62>Illya’s elder sister<U+FF63>, but because Illya herself also proclaims to be the elder sister, the quarrel between sisters that are like two peas in a pod are never ending.",
     "item": "Heart Bracelet: 1\n\nHeart Bracelet: 1\n\nHeart Bracelet: 1\n\nHeart Bracelet: 1\n\n",
-    "alias": ["kuro", "chloe", "chloe von einzbern"],
+    "alias": ["kuro", "chloe", "chloe von einzbern", "loli emiya"],
     "sex": "F"
   },
   "138": {
@@ -2936,7 +2936,7 @@
     "alignment": "Chaotic Good",
     "desc": "The Halloween-celebrating Elisabeth (Caster) that became a Saber at the end of an unfortunate fate. With the power of dragon, power of music and a second Halloween on her side, it is not like there isn’t a feeling that nobody that can stop her anymore.With a pure white mantle, a crimson armor and a straightforward great sword that lacks in decorations for modern trends in hand, the Hero Elisabeth pushes on today as well.You should not concern yourself with minor details too much.",
     "item": "Dragon Orb: 1\n\nDragon Orb: 1\n\nDragon Orb: 1\n\nDragon Orb: 1\n\n",
-    "alias": ["brave liz", "elisabeth bathory brave"],
+    "alias": ["brave liz", "elisabeth bathory brave", "saber liz", "liz saber"],
     "sex": "F"
   },
   "139": {
@@ -3503,7 +3503,7 @@
     "alignment": "Chaotic Evil",
     "desc": "The antagonist of the enlightened. The saint that appeared in the Deep Sea Virtual Paradise, SE.RA.PH. The one who employed the rare qualities as a messiah that she possessed only for her own sake, metamorphosing into something not-human. Her pledge, her hope was put to an end when she had just barely reached the shore. Kiara herself vanished at that time, but maybe due changing her way of thinking upon death, she left a portion of her power behind as an Alterego and accepted for it to be summoned by Chaldea in the future.  <U+300C>It’s fine right, Chaldea.  To throw oneself into battle at many ages, many places...  I would also like to have a taste of that myself.<U+300D>  or so she says with a reserved smile. But, of course, her real intentions are nothing like <U+FF62>for the sake of humanity<U+FF63>. One must be cautious, for even after becoming somewhat more mellow, her nature has not changed at all.",
     "item": "Saber Piece: 5\nCaster Piece: 5\n\nSaber Piece: 12\nCaster Piece: 12\n\nSaber Monument: 5\nCaster Monument: 5\n\nSaber Monument: 12\nCaster Monument: 12\n\n",
-    "alias": ["kiara", "Sessyoin Kiara"],
+    "alias": ["kiara", "Sessyoin Kiara", "lewd nun", "nun"],
     "sex": "F"
   },
   "169": {
@@ -3650,7 +3650,7 @@
     "alignment": "Chaotic Summer",
     "desc": "<U+300C>When you say summer, it has to be a resort. When you say resort, it has to be a high-class hotel. When you say high-class hotel, it has to be a special-installation arena! Now, the golden theater was changed to everlasting summer specifications, and the Emperor Nero goes Prism In on the summer se---a! As such! Taking the sunlight on board the flowing water current! This time for sure, my opera will resound in Chaldea!<U+300D>Actually, rumor goes that her affinity here is better than in the Saber-class.",
     "item": "Caster Piece: 5\n\nCaster Piece: 12\nForbidden Page: 8\n\nCaster Monument: 5\nPhoenix Feather: 8\nScarab of Wisdom: 2\n\nCaster Monument: 12\nScarab of Wisdom: 4\nChichi Divine Wine: 5\n\n",
-    "alias": ["caster nero", "nero caster", "swimsuit nero"],
+    "alias": ["caster nero", "nero caster", "swimsuit nero", "summer nero", "nero summer"],
     "sex": "F"
   },
   "176": {
@@ -3671,7 +3671,7 @@
     "alignment": "Neutral Summer",
     "desc": "The summer season arrived!<U+FF62>Hot! Languid! Listless!<U+FF63>Seeking some refreshingness, the cyborg Fran-chan (who weak in the summer) changes into a swimsuit and challenges a race.Her partners are a shady a 50-years-old man and the trans-morphing giant robot Babbage.This is like a super epic movie of summer season!",
     "item": "Saber Piece: 4\n\nSaber Piece: 10\nProof of Hero: 18\n\nSaber Monument: 4\nBlack Beast Grease: 5\nOctuplet Crystals: 4\n\nSaber Monument: 10\nOctuplet Crystals: 8\nEternal Gear: 10\n\n",
-    "alias": ["saber fran", "swimsuit fran", "summer fran", "frankenstein"],
+    "alias": ["saber fran", "swimsuit fran", "summer fran", "frankenstein", "summer frankenstein"],
     "sex": "F"
   },
   "177": {
@@ -3734,7 +3734,7 @@
     "alignment": "Lawful Evil",
     "desc": "Even an Alter wears a swimsuit. After all, it is summer.However, due some kind of conviction, she has put away the king’s crown and equipped instead a lovely white crown--- a white brim.Indeed. A maid.",
     "item": "Rider Piece: 5\n\nRider Piece: 12\nGreat Knight Medal: 15\n\nRider Monument: 5\nDragon's Reverse Scale: 4\nShell of Reminiscence: 5\n\nRider Monument: 12\nShell of Reminiscence: 10\nCursed Beast Gallstone: 5\n\n",
-    "alias": ["maid salter", "maid alter", "swimsuit salter", "swimsuit alter", "rider alter"],
+    "alias": ["maid salter", "maid alter", "swimsuit salter", "swimsuit alter", "rider alter", "summer salter", "summer alter"],
     "sex": "F"
   },
   "180": {
@@ -3776,7 +3776,7 @@
     "alignment": "Lawful Good",
     "desc": "Raikou heard about the considerable disturbance of public morals that took place on the southern island previously.<U+FF62>Such situation must not happen in this year’s event<U+FF63> - a compulsory Class Change resulted from her dedicating such prayer to the Gozo Tenno. Although not to the extent of her proper Class (Saber), Lancer Minamoto Raikou accomplished a metamorphosis in which her motherly power was inhibited and the disposition of protecting the capital was strengthened.<U+FF62>Raikou-san turns unbelievably serious when it comes to her main job as a Saber. A super-Public Morals Chairwoman.<U+FF63><U+FF62>As a Lancer, yeah, she would be like a Public Morals Chairwoman of the shadows. Well, in other words---<U+FF63>In other words, a sukeban.With her motherly power inhibited, Raikou cuts off the summer as a dignified warrior that protects the capital!",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nShell of Reminiscence: 6\n\nLancer Monument: 4\nProof of Hero: 24\nEternal Gear: 4\n\nLancer Monument: 10\nEternal Gear: 8\nHeart of the Foreign God: 4\n\n",
-    "alias": ["swimsuit raikou", "summer raikou"],
+    "alias": ["swimsuit raikou", "summer raikou", "lancer raikou", "raikou lancer"],
     "sex": "F"
   },
   "182": {
@@ -4532,7 +4532,7 @@
     "alignment": "Chaotic Evil",
     "desc": "",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nEvil Bone: 18\n\nLancer Monument: 4\nLamp of Evil-Sealing: 5\nBlack Beast Grease: 3\n\nLancer Monument: 10\nBlack Beast Grease: 5\nChichi Divine Wine: 4\n\n",
-    "alias": ["swimsuit banana", "swimsuit banana oni", "summer ibaraki", "swimsuit ibaraki"],
+    "alias": ["swimsuit banana", "swimsuit banana oni", "summer ibaraki", "swimsuit ibaraki", "summer banana"],
     "sex": "F"
   },
   "218": {
@@ -4574,7 +4574,7 @@
     "alignment": "Chaotic Summer",
     "desc": "",
     "item": "Jet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\n",
-    "alias": ["swimsuit jalter", "berserker jalter", "jalter berserker", "jaltzer", "summer jalter"],
+    "alias": ["swimsuit jalter", "berserker jalter", "jalter berserker", "jaltzer", "summer jalter", "jerker", "ninjalter"],
     "sex": "F"
   },
   "220": {
