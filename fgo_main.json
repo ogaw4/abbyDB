@@ -731,7 +731,7 @@
     "alignment": "Lawful Neutral",
     "desc": "One of the world's three great writers of children stories. It is deemed that there is nobody who doesn't know <U+FF62>The Little Mermaid<U+FF63> or <U+FF62>The Little Match Girl<U+FF63>. Born in 1805, died in 1875 from liver cancer. Although he is now considered one of the three great writers, it has been said that half of his life was filled with setbacks and distress.",
     "item": "Caster Piece: 3\n\nForbidden Page: 4\nCaster Piece: 6\n\nEternal Gear: 3\nHomunculus Baby: 5\nCaster Monument: 3\n\nEternal Gear: 5\nMeteor Horseshoe: 6\nCaster Monument: 6\n\n",
-    "alias": ["hans", "hans Christian andersen"],
+    "alias": ["hans", "hans Christian andersen", "andersen"],
     "sex": "M"
   },
   "034": {
@@ -2831,7 +2831,7 @@
     "alignment": "Neutral Good",
     "desc": "The queen of the foreign territory & haunted ground called <U+FF62>Land of Shadows<U+FF63> and mentor of warriors, Scathach--- or so should be. But, at this occasion, she carried out the reckless deed of changing herself and several other female Servants around into swimsuits, all under the guise of adapting to the environment. The result is this summer-style that you see. Scathach's own testimony is \"it is fine to act like this sometimes\".",
     "item": "Bell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\nBell-Ringing Branch: 1\n\n",
-    "alias": ["swimsuit shishou", "assassin shishou", "swimsuit scathach"],
+    "alias": ["swimsuit shishou", "assassin shishou", "swimsuit scathach", "summer scathach", "summer shishou"],
     "sex": "F"
   },
   "134": {
@@ -4616,7 +4616,7 @@
     "alignment": "Chaotic Evil",
     "desc": "",
     "item": "Saber Piece: 4\n\nSaber Piece: 10\nShell of Reminiscence: 6\n\nSaber Monument: 4\nPrimordial Lanugo: 5\nPhoenix Feather: 4\n\nSaber Monument: 10\nPhoenix Feather: 7\nSpirit Root: 4\n\n",
-    "alias": ["swimsuit thot", "swimsuit medb", "saber medb"],
+    "alias": ["swimsuit thot", "swimsuit medb", "saber medb", "summer medb", "summer thot"],
     "sex": "F"
   },
   "222": {
