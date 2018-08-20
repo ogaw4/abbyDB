@@ -542,7 +542,7 @@
     "alignment": "Lawful Good",
     "desc": "Saint Georgius, the holy man also well known as Saint George. Possessing the holy sword Ascalon, his anecdote of having exterminated a dragon is famous. He rides the horse Bayard that can negate an enemy's attack once.",
     "item": "Rider Piece: 3\n\nProof of Hero: 11\nRider Piece: 6\n\nPhoenix Feather: 4\nForbidden Page: 3\nRider Monument: 3\n\nForbidden Page: 5\nMeteor Horseshoe: 6\nRider Monument: 6\n\n",
-    "alias": ["georgios", "georgius", "st george"],
+    "alias": ["georgios", "georgius", "st george", "george"],
     "sex": "M"
   },
   "025": {
@@ -2810,7 +2810,7 @@
     "alignment": "Chaotic Good",
     "desc": "Summer! Sea! Surfer!Yahooooooo!As you can see, a super ultra surfer who was born in a burst of laughter - Mordred, bikini-style.For short, Miss Su-Mor, or rather Miss Surfer Mor.Having been summoned as a Rider instead of Saber this time around, she has not brought Clarent with her.Not only that, she has not even brought her armor and helmet with her.",
     "item": "Rider Piece: 4\n\nRider Piece: 10\nShell of Reminiscence: 6\n\nRider Monument: 4\nGreat Knight Medal: 16\nDragon Fang: 10\n\nRider Monument: 10\nDragon Fang: 20\nDragon's Reverse Scale: 4\n\n",
-    "alias": ["rider mordred", "rider moedred", "swimsuit mordred", "swimsuit moedred"],
+    "alias": ["rider mordred", "rider moedred", "swimsuit mordred", "swimsuit moedred", "summer mordred", "summer moedred"],
     "sex": "F"
   },
   "133": {
@@ -3587,7 +3587,7 @@
     "alignment": "Neutral Evil",
     "desc": "A worldly-wise man in the prime of his life. He inspires his disheartened companions by hitting their shoulders and saying that the most important thing is to never give up. Composure never leaves his face. His daring smile never disappears.  ---he is well aware. That so long one continues to advance, he can surely manage to reach the place he wishes for.",
     "item": "Rider Piece: 4\n\nRider Piece: 8\nFool's Chain: 15\n\nRider Monument: 4\nChichi Divine Wine: 3\nDeadly Poison Stinger: 8\n\nRider Monument: 8\nDeadly Poison Stinger: 16\nGhost Lantern: 8\n\n",
-    "alias": ["resistance rider", "christopher columbus", "columbus"],
+    "alias": ["resistance rider", "christopher columbus", "columbus", "colombus"],
     "sex": "M"
   },
   "173": {
@@ -4553,7 +4553,7 @@
     "alignment": "Neutral Summer",
     "desc": "",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 10\nSeed of Yggdrassil: 8\n\nAssassin Monument: 4\nKotan Magatama: 8\nWarhorse's Young Horn: 3\n\nAssassin Monument: 10\nWarhorse's Young Horn: 5\nCursed Beast Gallstone: 4\n\n",
-    "alias": ["swimsuit ushi", "assassin ushi", "swimsuit ushiwakamaru"],
+    "alias": ["swimsuit ushi", "assassin ushi", "swimsuit ushiwakamaru", "summer ushi", "summer ushiwakamaru", "assassin ushiwakamaru"],
     "sex": "F"
   },
   "219": {
@@ -4574,7 +4574,7 @@
     "alignment": "Chaotic Summer",
     "desc": "",
     "item": "Jet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\nJet Black Feather Pen: 1\n\n",
-    "alias": ["swimsuit jalter", "berserker jalter", "jalter berserker", "jaltzer"],
+    "alias": ["swimsuit jalter", "berserker jalter", "jalter berserker", "jaltzer", "summer jalter"],
     "sex": "F"
   },
   "220": {
