@@ -139,7 +139,7 @@
     "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0051.png",
     "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=005",
     "note": "2nd Singularity: Septem must be completed before she becomes available as a Story Summon.",
-    "NP": "(Arts)\nLaus Saint Claudius B-\nImperium of the Maidenís Flowery Words \nDeal heavy damage to all enemies that ignores DEF <LEVEL>Decrease DEF (1 turn) <OVERCHARGE>\nTarget: All Enemies",
+    "NP": "(Arts)\nLaus Saint Claudius B-\nImperium of the Maiden‚Äôs Flowery Words \nDeal heavy damage to all enemies that ignores DEF <LEVEL>Decrease DEF (1 turn) <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Chaotic Good",
     "desc": "Self-styled, cross-dressing beauty. Despite being selfish and self-supremacist, she is cheerfully openhearted, an almighty self-indulgent emperor who was loved by the people due her child-like innocence. Her real name is Nero Claudius Caesar Augustus Germanicus. The Fifth Emperor of the Roman Empire.",
     "item": "Saber Piece: 4\n\nOctuplet Crystals: 6\nSaber Piece: 10\n\nPhoenix Feather: 7\nGhost Lantern: 4\nSaber Monument: 4\n\nGhost Lantern: 8\nEternal Gear: 10\nSaber Monument: 10\n\n",
@@ -1275,7 +1275,7 @@
     "note": "",
     "NP": "(Arts)\nLuminosite Eternelle A-\nGod is Here With Me\nApply Invincible to all allies (1 turn)Increase DEF of all allies (3 turns) <LEVEL>Restore HP of all allies per turn (2 turns) <OVERCHARGE>Inflicts Stun on herself (2 turns) [Demerit]\nTarget: All Allies / Self",
     "alignment": "Lawful Good",
-    "desc": "Oh Lord, I now offer this bodyÖ",
+    "desc": "Oh Lord, I now offer this body‚Ä¶",
     "item": "Saber Piece: 5\nArcher Piece: 5\nLancer Piece: 5\n\nRider Piece: 5\nCaster Piece: 5\nAssassin Piece: 5\nBerserker Piece: 5\n\nSaber Monument: 5\nArcher Monument: 5\nLancer Monument: 5\n\nRider Monument: 5\nCaster Monument: 5\nAssassin Monument: 5\nBerserker Monument: 5\n\n",
     "alias": ["jeanne", "jeannu", "jeanne d'Arc"],
     "sex": "F"
@@ -1736,7 +1736,7 @@
     "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=081",
     "note": "Reward for clearing 4th Singularity: London",
     "NP": "(Buster)\nDangerous Game C\nThe Secret Game of Sin\nTransform into HydeIncrease maximum HP <LEVEL>Restore HP to fullIncrease Buster Card effectiveness <OVERCHARGE>\nTarget: Self",
-    "alignment": "Lawful Good (Jekyll)∑ Chaotic Evil (Hyde)",
+    "alignment": "Lawful Good (Jekyll)¬∑ Chaotic Evil (Hyde)",
     "desc": "The character that appeared in the novel of 19th Century, <U+FF62>Dr. Jekyll and Mr. Hyde<U+FF63>-- or maybe the individual who became its model. It has been said that he attempted to detach <U+FF62>evil<U+FF63> from his own personality, but instead revealed a personality that embodied <U+FF62>evil<U+FF63>, eventually performing murders and in the end self-destructed.",
     "item": "Assassin Piece: 4\n\nEvil Bone: 15\nAssassin Piece: 8\n\nOctuplet Crystals: 4\nVoid's Dust: 13\nAssassin Monument: 4\n\nOctuplet Crystals: 7\nHomunculus Baby: 8\nAssassin Monument: 8\n\n",
     "alias": ["jekyll", "hyde", "henry", "henry jekkyl & hyde", "henry jekkyl and hyde"],
@@ -1884,7 +1884,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nBrynhild Romantia B\nUntil Death Tears Us Apart\nDeal significant damage to a single enemy <LEVEL>Special Attack [Beloved] <OVERCHARGE>Increase Critical Star Drop Rate of all allies (3 turns)\nTarget: Enemy",
     "alignment": "Neutral Good",
-    "desc": "Daughter of Odin, the Great God of Northern Europe, and one of the battle-maidens Valkyries. A tragic woman from Norse mythology.A battle-maiden regarded in the same light as SigrdrÌfa, the fated person of the great hero Sigurd in the <U+FF62>Volsunga Saga<U+FF63>, she is also similarly portrayed as a Valkyrie who fell in love with Sigurd in the <U+FF62>Sigrdrifumol<U+FF63> and the <U+FF62>Helreith Brynhildar<U+FF63> from Elder Edda.",
+    "desc": "Daughter of Odin, the Great God of Northern Europe, and one of the battle-maidens Valkyries. A tragic woman from Norse mythology.A battle-maiden regarded in the same light as Sigrdr√≠fa, the fated person of the great hero Sigurd in the <U+FF62>Volsunga Saga<U+FF63>, she is also similarly portrayed as a Valkyrie who fell in love with Sigurd in the <U+FF62>Sigrdrifumol<U+FF63> and the <U+FF62>Helreith Brynhildar<U+FF63> from Elder Edda.",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nHeart of the Foreign God: 3\n\nLancer Monument: 5\nSeed of Yggdrassil: 12\nProof of Hero: 15\n\nLancer Monument: 12\nProof of Hero: 29\nGhost Lantern: 12\n\n",
     "alias": ["bryn", "brynhild", "brynn"],
     "sex": "F"
@@ -2094,7 +2094,7 @@
     "note": "5th Singularity: E Pluribus Unum must be completed before he becomes available as a Story Summon.",
     "NP": "(Buster)\nCurruid Coinchenn A\nThe Beast of Crunching Deathtusk\nIncrease ATK (1 turn) <OVERCHARGE>Increase DEF (1 turn) <OVERCHARGE>Deal significant damage to a single enemy <LEVEL>\nTarget: Self / Enemy",
     "alignment": "Chaotic Evil",
-    "desc": "A brave warrior from Celtic, Ulster mythology. A member of the Knights of the Red Branch and the strongest warrior in Ulster, a hero who won fame by employing the invincible magic spear received from the leader of the underworld Sc·thach. Unlike normal, he has manifested as a Berserker. By some sort of cause, the equipment all over his body has changed and his personality inverted.",
+    "desc": "A brave warrior from Celtic, Ulster mythology. A member of the Knights of the Red Branch and the strongest warrior in Ulster, a hero who won fame by employing the invincible magic spear received from the leader of the underworld Sc√°thach. Unlike normal, he has manifested as a Berserker. By some sort of cause, the equipment all over his body has changed and his personality inverted.",
     "item": "Berserker Piece: 5\n\nBerserker Piece: 12\nEvil Bone: 22\n\nBerserker Monument: 5\nClaw of Chaos: 6\nHeart of the Foreign God: 2\n\nBerserker Monument: 12\nHeart of the Foreign God: 4\nTearstone of Blood: 8\n\n",
     "alias": ["cu alter", "cu chulainn (alter)"],
     "sex": "M"
@@ -2481,7 +2481,7 @@
     "rarity": "3",
     "attacks": "0101010203",
     "id": "117",
-    "name": "Fuuma ìEvil-windî Kotarou",
+    "name": "Fuuma ‚ÄúEvil-wind‚Äù Kotarou",
     "servantClass": "Assassin",
     "cost": "7",
     "baseHP": "1,592",
@@ -2913,7 +2913,7 @@
     "note": "Prisma Corps Event",
     "NP": "(Arts)\nKakuyoku Sanren C\nTriple-Linked Crane Wings\nApply Sure Hit (1 turn)Deal significant damage to a single enemy <LEVEL>Decrease Critical Rate (3 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Chaotic Good",
-    "desc": "The half that separated from that manifested by acquiring the mold of a certain heroic spirit. Unbefitting her childish appearance, she constantly manipulate the surrounding people with an alluring behavior. The self-alleged <U+FF62>Illyaís elder sister<U+FF63>, but because Illya herself also proclaims to be the elder sister, the quarrel between sisters that are like two peas in a pod are never ending.",
+    "desc": "The half that separated from that manifested by acquiring the mold of a certain heroic spirit. Unbefitting her childish appearance, she constantly manipulate the surrounding people with an alluring behavior. The self-alleged <U+FF62>Illya‚Äôs elder sister<U+FF63>, but because Illya herself also proclaims to be the elder sister, the quarrel between sisters that are like two peas in a pod are never ending.",
     "item": "Heart Bracelet: 1\n\nHeart Bracelet: 1\n\nHeart Bracelet: 1\n\nHeart Bracelet: 1\n\n",
     "alias": ["kuro", "chloe", "chloe von einzbern"],
     "sex": "F"
@@ -2934,7 +2934,7 @@
     "note": "Halloween 2016 Event",
     "NP": "(Buster)\nBathory Brave Erzsebet B\nCyclone Demoness of Fresh Blood\nDeal significant damage to a single enemy that ignores DEF <LEVEL>Inflict Burn (5 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Chaotic Good",
-    "desc": "The Halloween-celebrating Elisabeth (Caster) that became a Saber at the end of an unfortunate fate. With the power of dragon, power of music and a second Halloween on her side, it is not like there isnít a feeling that nobody that can stop her anymore.With a pure white mantle, a crimson armor and a straightforward great sword that lacks in decorations for modern trends in hand, the Hero Elisabeth pushes on today as well.You should not concern yourself with minor details too much.",
+    "desc": "The Halloween-celebrating Elisabeth (Caster) that became a Saber at the end of an unfortunate fate. With the power of dragon, power of music and a second Halloween on her side, it is not like there isn‚Äôt a feeling that nobody that can stop her anymore.With a pure white mantle, a crimson armor and a straightforward great sword that lacks in decorations for modern trends in hand, the Hero Elisabeth pushes on today as well.You should not concern yourself with minor details too much.",
     "item": "Dragon Orb: 1\n\nDragon Orb: 1\n\nDragon Orb: 1\n\nDragon Orb: 1\n\n",
     "alias": ["brave liz", "elisabeth bathory brave"],
     "sex": "F"
@@ -2976,7 +2976,7 @@
     "note": "",
     "NP": "(Buster)\nKazikli Bey C\nStronghold of Impalement\nIgnore Invincible & Evade (1 turn)Deal significant damage to a single enemy <LEVEL>Special Attack [Evil] <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "A famous hero from Romanian history. A noble warrior who held on to Walachiaís independence and was even called the shield of Christian world.However, he is an innocent monster whose title of Dracula ended up spreading across the world instead.For the sake of protecting Walachia from the Turkish armies to the end, he purged the nobles who had laid waste to the country and impaled over 20,000 enemy soldiers from the Turkish army, but he had to run counter to the nobility in order to carry out his doctrine of severe punishment.In the end, he was assassinated by his own subordinates - the Wallachian nobles.",
+    "desc": "A famous hero from Romanian history. A noble warrior who held on to Walachia‚Äôs independence and was even called the shield of Christian world.However, he is an innocent monster whose title of Dracula ended up spreading across the world instead.For the sake of protecting Walachia from the Turkish armies to the end, he purged the nobles who had laid waste to the country and impaled over 20,000 enemy soldiers from the Turkish army, but he had to run counter to the nobility in order to carry out his doctrine of severe punishment.In the end, he was assassinated by his own subordinates - the Wallachian nobles.",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nProof of Hero: 18\n\nLancer Monument: 4\nFool's Chain: 24\nBlack Beast Grease: 3\n\nLancer Monument: 10\nBlack Beast Grease: 5\nDragon's Reverse Scale: 4\n\n",
     "alias": ["extra vlad", "vlad extra", "lancer vlad", "vlad III extra"],
     "sex": "M"
@@ -2997,7 +2997,7 @@
     "note": "Christmas 2016 Event",
     "NP": "(Buster)\nLa Grace Fille Noel A+\nSing Elegantly, About Said Holy Birth\nDeal heavy damage to all enemies <LEVEL>Decrease Debuff Resist of all enemies (1 turn)Increase ATK of all allies (1 turn) <OVERCHARGE>Increase HP Recovery Amount of all allies (1 turn) <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Chaotic Good",
-    "desc": "Jeanne Alter was born thanks to Gilles de Rais making a wish to the Holy Grail, Jeanne d'Arc Alter Lily was born thanks to her drinking King Gilgameshís shady medicine, and she became Jeanne DíArc Alter Santa Lily upon aiming for Santa Claus.Surely, Alter-chan is the second!......somebody should stop her any time soon.",
+    "desc": "Jeanne Alter was born thanks to Gilles de Rais making a wish to the Holy Grail, Jeanne d'Arc Alter Lily was born thanks to her drinking King Gilgamesh‚Äôs shady medicine, and she became Jeanne D‚ÄôArc Alter Santa Lily upon aiming for Santa Claus.Surely, Alter-chan is the second!......somebody should stop her any time soon.",
     "item": "Gilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\n",
     "alias": ["janta", "jailter", "jalter lily", "jeanne d'arc alter santa lily"],
     "sex": "F"
@@ -3039,7 +3039,7 @@
     "note": "",
     "NP": "(Buster)\nEnuma Elish A++\nO Humans, Let Us Restrain The Gods\nDecrease DEF (3 turns) <OVERCHARGE>Deal significant damage to a single enemy <LEVEL>Inflict Stun against [Divine] (1 turn)\nTarget: Enemy",
     "alignment": "True Neutral",
-    "desc": "From its gentle tone and graceful bearings, one would never guess that this is a ìNoble Phantasm with a willî that possesses a fierce combat power. The chains that fasten heavens and earth, regarded by the King of Heroes Gilgamesh as one of the strongests. A doll created by the hands of the gods, and also an offshot of the earth that harmonizes∑becomes one with nature.A tragic weapon that underwent many adventures as the sole friend of the King of Heroes and, after acquiring a human heart, returned to dirt as a doll.",
+    "desc": "From its gentle tone and graceful bearings, one would never guess that this is a ‚ÄúNoble Phantasm with a will‚Äù that possesses a fierce combat power. The chains that fasten heavens and earth, regarded by the King of Heroes Gilgamesh as one of the strongests. A doll created by the hands of the gods, and also an offshot of the earth that harmonizes¬∑becomes one with nature.A tragic weapon that underwent many adventures as the sole friend of the King of Heroes and, after acquiring a human heart, returned to dirt as a doll.",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nFool's Chain: 22\n\nLancer Monument: 5\nOctuplet Crystals: 10\nSpirit Root: 2\n\nLancer Monument: 12\nSpirit Root: 4\nHeart of the Foreign God: 5\n\n",
     "alias": ["enkidu", "clay"],
     "sex": "?"
@@ -3165,7 +3165,7 @@
     "note": "Enemy Servant",
     "NP": "(Arts)\nNammu Duranki \nChildren, Obey the Law of Creation\nDeal heavy damage to all enemies <LEVEL>Apply Nullify Buff (1 time)\nTarget: All Enemies",
     "alignment": "Chaotic Evil",
-    "desc": "One of the genesis deities from Mesopotamian Mythology. The gods were produced by the fresh water that is Abz˚, and the salt water that is Tiamat. Afterwards, those children gods rose in revolt against the primordial father Abz˚ and obtained supremacy over the world. At that time, Tiamat gently approved of her childrenís actions. An evidence that the love for her children won over the love for her husband.  However, the gods pointed their blades even to their mother Tiamat. Tiamat grieved, went mad and gave birth to 11 magical beasts as her new children to confront the gods. At the end of the struggle, Tiamat and her 11 magical beasts were defeated It has been said that the gods teared her corpse in two, creating heavens and earth, thus establishing the ceremony of genesis of the human world.",
+    "desc": "One of the genesis deities from Mesopotamian Mythology. The gods were produced by the fresh water that is Abz√ª, and the salt water that is Tiamat. Afterwards, those children gods rose in revolt against the primordial father Abz√ª and obtained supremacy over the world. At that time, Tiamat gently approved of her children‚Äôs actions. An evidence that the love for her children won over the love for her husband.  However, the gods pointed their blades even to their mother Tiamat. Tiamat grieved, went mad and gave birth to 11 magical beasts as her new children to confront the gods. At the end of the struggle, Tiamat and her 11 magical beasts were defeated It has been said that the gods teared her corpse in two, creating heavens and earth, thus establishing the ceremony of genesis of the human world.",
     "item": "\n\n\n\n\n\n\n\n",
     "alias": ["tiamat"],
     "sex": "F"
@@ -3186,7 +3186,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Arts)\nGarden of Avalon C\nEternally Secluded Utopia\nRestore HP of all allies per turn (5 turns) <LEVEL>Increase NP gauge of all allies per turn (5 turns)Gain Critical Stars per turn (5 turns) <OVERCHARGE>\nTarget: All Allies / Self",
     "alignment": "Lawful Good",
-    "desc": "The vagrant of the paradise. The court mage, advisor and prophet that appears in Arthurian legends.He would at times guide, at times torment and at times help King Arthur so that she could overcome many enemies and hardships.Still, even as a wise man he is fundamentally inhuman.For you see, he is a mixed-blood of incubus and human.<U+300C>I like the world of humans very much, but when it comes to each of them individually,  Iím relatively, look, well, yeah! Very well, I suddenly feel that some things are better left unsaid!<U+300D>Just like this, it is not like he is an ally of humans.One among the top-ranking Casters, but he himself does not treat magic as his forte. The reason being that he stumbles during incantations.",
+    "desc": "The vagrant of the paradise. The court mage, advisor and prophet that appears in Arthurian legends.He would at times guide, at times torment and at times help King Arthur so that she could overcome many enemies and hardships.Still, even as a wise man he is fundamentally inhuman.For you see, he is a mixed-blood of incubus and human.<U+300C>I like the world of humans very much, but when it comes to each of them individually,  I‚Äôm relatively, look, well, yeah! Very well, I suddenly feel that some things are better left unsaid!<U+300D>Just like this, it is not like he is an ally of humans.One among the top-ranking Casters, but he himself does not treat magic as his forte. The reason being that he stumbles during incantations.",
     "item": "Caster Piece: 5\n\nCaster Piece: 12\nEternal Gear: 8\n\nCaster Monument: 5\nForbidden Page: 10\nScarab of Wisdom: 2\n\nCaster Monument: 12\nScarab of Wisdom: 4\nDragon's Reverse Scale: 5\n\n",
     "alias": ["merlin", "memelin", "futamancer"],
     "sex": "M"
@@ -3207,7 +3207,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nRikudou Gorin Kurikara Tenshou A\nFive Cycles of the Six Realms Kurikara Heavenly Phenomenon\nIncrease NP Strength (1 turn) <OVERCHARGE>Deal significant damage to a single enemy <LEVEL>Remove all Buffs\nTarget: Enemy",
     "alignment": "Chaotic Good",
-    "desc": "A swordsman from the early Edo Period, famous s the strongest swordmaster in Japanese history. Learned in the ìNiten Ichi-ryuî,a school that was supposedly founded by Musashi, an expert of ìdual wieldingî that employs a long sword and a short sword.......or so it should have been, but seems that her circumstances are somehow different from the Musashi that left his name in history.  <U+300C>Eh? The Musashi in this world is a man?  And also extremely famous? What a surprise!<U+300D>  As you see, the person herself has a relaxed, open attitude that never gets worked up. Having no particular interest in victory or prestige, yet sloven with alcohol, a sucker for money and weak against free food. However, all those who confronted and were beaten by her in battle said this in the end:  ---a vibrant flower of tengen.    Her sword reaches the heights of nothingness.",
+    "desc": "A swordsman from the early Edo Period, famous s the strongest swordmaster in Japanese history. Learned in the ‚ÄúNiten Ichi-ryu‚Äù,a school that was supposedly founded by Musashi, an expert of ‚Äúdual wielding‚Äù that employs a long sword and a short sword.......or so it should have been, but seems that her circumstances are somehow different from the Musashi that left his name in history.  <U+300C>Eh? The Musashi in this world is a man?  And also extremely famous? What a surprise!<U+300D>  As you see, the person herself has a relaxed, open attitude that never gets worked up. Having no particular interest in victory or prestige, yet sloven with alcohol, a sucker for money and weak against free food. However, all those who confronted and were beaten by her in battle said this in the end:  ---a vibrant flower of tengen.    Her sword reaches the heights of nothingness.",
     "item": "Saber Piece: 5\n\nSaber Piece: 12\nProof of Hero: 22\n\nSaber Monument: 5\nOctuplet Crystals: 10\nEternal Gear: 5\n\nSaber Monument: 12\nEternal Gear: 10\nHeart of the Foreign God: 5\n\n",
     "alias": ["musashi", "miyamoto musashi"],
     "sex": "F"
@@ -3216,7 +3216,7 @@
     "rarity": "5",
     "attacks": "0102030303",
     "id": "154",
-    "name": "ìFirst Hassanî",
+    "name": "‚ÄúFirst Hassan‚Äù",
     "servantClass": "Assassin",
     "cost": "16",
     "baseHP": "1,956",
@@ -3228,7 +3228,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nAzrael C\nAngel of Death\nDeal significant damage to a single enemy <LEVEL>High chance to inflict Death <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Evil",
-    "desc": "An assassin that wears a skull mask. Regarded as the first Hassan Sabbah, who was born when the name <U+300E>Old Man of the Mountain<U+300F> changed into a title, after the assassination cult became established as assassins. However, it has been said that neither the other 18 Hassans nor the followers of the cult knew this individualís true identity and that no evidence that he truly existed could be found anywhere. A legendary assassin, said to appear when the Hassan Sabbah of that generation err in his way so to sever his head. In other words, a Hassan that kills other Hassans.",
+    "desc": "An assassin that wears a skull mask. Regarded as the first Hassan Sabbah, who was born when the name <U+300E>Old Man of the Mountain<U+300F> changed into a title, after the assassination cult became established as assassins. However, it has been said that neither the other 18 Hassans nor the followers of the cult knew this individual‚Äôs true identity and that no evidence that he truly existed could be found anywhere. A legendary assassin, said to appear when the Hassan Sabbah of that generation err in his way so to sever his head. In other words, a Hassan that kills other Hassans.",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nEvil Bone: 22\n\nAssassin Monument: 5\nFool's Chain: 29\nCursed Beast Gallstone: 2\n\nAssassin Monument: 12\nCursed Beast Gallstone: 4\nVoid's Dust: 24\n\n",
     "alias": ["gramps", "old man of the mountain", "king hassan", "kh", "jiji"],
     "sex": "M"
@@ -3249,7 +3249,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Quick)\nCross Calibur A++\nBlack Dragon Double Sword of Promised Victory\nDeal significant damage to a single enemy <LEVEL>Special Attack [Saber-class Servants] <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Neutral Evil",
-    "desc": "An orphan villain (bad guy) that came visiting from the Servant Universe.An extremely rare case of a berserker student.Burning the magical energy conversion reactor Altereactor, an Anti-Anti-Saber Decisive Weapon that sworn to defeat Mysterious Heroine XI donít understand anything anymore, you say?---Donít think. Feel!",
+    "desc": "An orphan villain (bad guy) that came visiting from the Servant Universe.An extremely rare case of a berserker student.Burning the magical energy conversion reactor Altereactor, an Anti-Anti-Saber Decisive Weapon that sworn to defeat Mysterious Heroine XI don‚Äôt understand anything anymore, you say?---Don‚Äôt think. Feel!",
     "item": "Berserker Piece: 5\n\nBerserker Piece: 12\nDragon Fang: 18\n\nBerserker Monument: 5\nGreat Knight Medal: 20\nPrimordial Lanugo: 3\n\nBerserker Monument: 12\nPrimordial Lanugo: 6\nDragon's Reverse Scale: 5\n\n",
     "alias": ["ecchan", "mhxa", "x alter", "mysterious heroine x alter"],
     "sex": "F"
@@ -3459,7 +3459,7 @@
     "note": "",
     "NP": "(Buster)\nTenkiame B+\nHeavenly Demon Rain\nDeal heavy damage to all enemies <LEVEL>Increase Critical Strength (3 turns) <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Neutral Evil",
-    "desc": "The dancing princess who is considered to have set a stronghold on the Suzuka Mountains and performed an oni-extermination together with Sakanoue no Tamuramaro during the Heian Period. A peerless beauty that was extolled as both a tennyo and an oni. However, to be frank, her real identity is that of the favorite daughter of the Demon Lord of the Fourth Heaven. Suzuka Gozen descended from heaven with an order to turn Japan into a land of demons, but she did not approve the idea of personally working to cause chaos on a mere human country. At the end of many adventures, disappointments in love, she was brought down by the hands of her lover, Sakanoue no Tamuramaro. Truly, a tennyo-princess of blighted love, but the cutting-edge style that she reached after pursuing and thoroughly investigating beauty was---<U+300C>Seriously, it had to be JK! Miko are also good, but thereís nothing better than a high school girl in regards to love!<U+300D>---listen, young lady. Are you really fine with that?",
+    "desc": "The dancing princess who is considered to have set a stronghold on the Suzuka Mountains and performed an oni-extermination together with Sakanoue no Tamuramaro during the Heian Period. A peerless beauty that was extolled as both a tennyo and an oni. However, to be frank, her real identity is that of the favorite daughter of the Demon Lord of the Fourth Heaven. Suzuka Gozen descended from heaven with an order to turn Japan into a land of demons, but she did not approve the idea of personally working to cause chaos on a mere human country. At the end of many adventures, disappointments in love, she was brought down by the hands of her lover, Sakanoue no Tamuramaro. Truly, a tennyo-princess of blighted love, but the cutting-edge style that she reached after pursuing and thoroughly investigating beauty was---<U+300C>Seriously, it had to be JK! Miko are also good, but there‚Äôs nothing better than a high school girl in regards to love!<U+300D>---listen, young lady. Are you really fine with that?",
     "item": "Saber Piece: 4\n\nSaber Piece: 10\nEvil Bone: 18\n\nSaber Monument: 4\nSeed of Yggdrassil: 10\nPhoenix Feather: 4\n\nSaber Monument: 10\nPhoenix Feather: 7\nScarab of Wisdom: 4\n\n",
     "alias": ["jk saber","suzuka", "gozen", "suzuka gozen"],
     "sex": "F"
@@ -3480,7 +3480,7 @@
     "note": "Fate/EXTRA CCC Event",
     "NP": "(Arts)\nCursed Cupid Cleanser A\nC.C.C.\nDeal significant damage to a single enemy <LEVEL>Decrease Debuff Resist (3 turns) <OVERCHARGE>Increase NP gauge of all allies\nTarget: Enemy",
     "alignment": "Chaotic Good",
-    "desc": "A unique case that occurred in the Mooncell Automaton. Originally an advanced AI stationed for the sake of managing the health of the Masters, but it went wild due to a bug. A cyber demon that ruled the far-side of the moon as a cancer that encroached the virtual world, obstructing the SE.RA.PHís Holy Grail War. A personification of illegal modifications, who forced the participants of the Holy Grail War to abide by the rules while she herself violated the rules all the time. A kouhai-type devil heroine who puts all her efforts in manipulating the senpai (Master) as a cheerful, precocious kouhai - all while carrying out world destruction as if part of the breakfast.  <U+300C>A well-behaved fight is boring, right?  I want to see everyoneís suffering faces more!<U+300D>  Just like this, one can tell in a glance that her behavioral and personality settings are twisted, but--- well, that is just your usual BB-chan.",
+    "desc": "A unique case that occurred in the Mooncell Automaton. Originally an advanced AI stationed for the sake of managing the health of the Masters, but it went wild due to a bug. A cyber demon that ruled the far-side of the moon as a cancer that encroached the virtual world, obstructing the SE.RA.PH‚Äôs Holy Grail War. A personification of illegal modifications, who forced the participants of the Holy Grail War to abide by the rules while she herself violated the rules all the time. A kouhai-type devil heroine who puts all her efforts in manipulating the senpai (Master) as a cheerful, precocious kouhai - all while carrying out world destruction as if part of the breakfast.  <U+300C>A well-behaved fight is boring, right?  I want to see everyone‚Äôs suffering faces more!<U+300D>  Just like this, one can tell in a glance that her behavioral and personality settings are twisted, but--- well, that is just your usual BB-chan.",
     "item": "Ribbon of Memories: 1\n\nRibbon of Memories: 1\n\nRibbon of Memories: 1\n\nRibbon of Memories: 1\n\n",
     "alias": ["BB", "BB-chan"],
     "sex": "F"
@@ -3501,7 +3501,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Arts)\nAmida Amidala - Heaven's Hole EX\nPleasure Deva Garbhadhatu Mandala\nApply Ignore Invincible (1 turn)Deal heavy damage to all enemies that ignores DEF <LEVEL>Restore own HP <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Chaotic Evil",
-    "desc": "The antagonist of the enlightened. The saint that appeared in the Deep Sea Virtual Paradise, SE.RA.PH. The one who employed the rare qualities as a messiah that she possessed only for her own sake, metamorphosing into something not-human. Her pledge, her hope was put to an end when she had just barely reached the shore. Kiara herself vanished at that time, but maybe due changing her way of thinking upon death, she left a portion of her power behind as an Alterego and accepted for it to be summoned by Chaldea in the future.  <U+300C>Itís fine right, Chaldea.  To throw oneself into battle at many ages, many places...  I would also like to have a taste of that myself.<U+300D>  or so she says with a reserved smile. But, of course, her real intentions are nothing like <U+FF62>for the sake of humanity<U+FF63>. One must be cautious, for even after becoming somewhat more mellow, her nature has not changed at all.",
+    "desc": "The antagonist of the enlightened. The saint that appeared in the Deep Sea Virtual Paradise, SE.RA.PH. The one who employed the rare qualities as a messiah that she possessed only for her own sake, metamorphosing into something not-human. Her pledge, her hope was put to an end when she had just barely reached the shore. Kiara herself vanished at that time, but maybe due changing her way of thinking upon death, she left a portion of her power behind as an Alterego and accepted for it to be summoned by Chaldea in the future.  <U+300C>It‚Äôs fine right, Chaldea.  To throw oneself into battle at many ages, many places...  I would also like to have a taste of that myself.<U+300D>  or so she says with a reserved smile. But, of course, her real intentions are nothing like <U+FF62>for the sake of humanity<U+FF63>. One must be cautious, for even after becoming somewhat more mellow, her nature has not changed at all.",
     "item": "Saber Piece: 5\nCaster Piece: 5\n\nSaber Piece: 12\nCaster Piece: 12\n\nSaber Monument: 5\nCaster Monument: 5\n\nSaber Monument: 12\nCaster Monument: 12\n\n",
     "alias": ["kiara", "Sessyoin Kiara"],
     "sex": "F"
@@ -3543,7 +3543,7 @@
     "note": "",
     "NP": "(Quick)\nGaomi Luozhi Jing B\nManual of Accusation\nDeal significant damage to a single enemy <LEVEL>Inflict Poison (3 turns)Increase own Critical Strength (3 turns) <OVERCHARGE>\nTarget: Enemy / Self",
     "alignment": "Lawful Evil",
-    "desc": "Her attitude towards other people is arrogant, and her behavior is self-willed as it can possibly be. A fundamentally flamboyant little girl.<U+FF62>Kufufu-, itís only natural for me to be more gorgeous and glittering than anyone else, right?... That being said, to nonchalantly call me a little girl.You fooool!<U+FF63>",
+    "desc": "Her attitude towards other people is arrogant, and her behavior is self-willed as it can possibly be. A fundamentally flamboyant little girl.<U+FF62>Kufufu-, it‚Äôs only natural for me to be more gorgeous and glittering than anyone else, right?... That being said, to nonchalantly call me a little girl.You fooool!<U+FF63>",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 10\nDeadly Poison Stinger: 15\n\nAssassin Monument: 4\nFool's Chain: 24\nBlack Beast Grease: 3\n\nAssassin Monument: 10\nBlack Beast Grease: 5\nCursed Beast Gallstone: 4\n\n",
     "alias": ["wu", "wu zetian", "fuyajo assassin"],
     "sex": "F"
@@ -3564,7 +3564,7 @@
     "note": "",
     "NP": "(Buster)\nOutrage Amazon B\nThe Hero Shall Die By My Wrath\nDeal significant damage to a single enemy <LEVEL>Inflict NP Seal (1 turn)Decrease ATK (3 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "The queen of the strong, possessing both strength and nobility. However---¶¶¶¶¶. Once <U+FF62>that<U+FF63> subject is touched upon, no matter how trivial it might have been, everything about her will be painted over by <U+FF62>that<U+FF63>. Only (or maybe not even) she herself knows what exactly she perceives as <U+FF62>that<U+FF63>. Therefore, she exists here as a Mad Warrior.",
+    "desc": "The queen of the strong, possessing both strength and nobility. However---¬¶¬¶¬¶¬¶¬¶. Once <U+FF62>that<U+FF63> subject is touched upon, no matter how trivial it might have been, everything about her will be painted over by <U+FF62>that<U+FF63>. Only (or maybe not even) she herself knows what exactly she perceives as <U+FF62>that<U+FF63>. Therefore, she exists here as a Mad Warrior.",
     "item": "Berserker Piece: 4\n\nBerserker Piece: 10\nOctuplet Crystals: 6\n\nBerserker Monument: 4\nMeteor Horseshoe: 8\nTearstone of Blood: 3\n\nBerserker Monument: 10\nTearstone of Blood: 5\nSpirit Root: 4\n\n",
     "alias": ["el dorado berserker", "penth", "penthesilea", "mama penth"],
     "sex": "F"
@@ -3606,7 +3606,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Arts)\nElementary, My Dear B\nIt's Elementary, My Friend\nDecrease DEF of all enemies (3 turns) <LEVEL>Apply Ignore Invincible to all allies (3 turns)Apply Ignore DEF to all allies (3 turns)Increase Critical Strength of all allies (3 turns) <OVERCHARGE>\nTarget: All Enemies / All Allies",
     "alignment": "Neutral Good",
-    "desc": "The worldís sole and greatest consulting detective.The crystallization of the concept of detective; the representative of <U+FF62>those who reveals<U+FF63>.The protagonist of the stories that Sir Arthur Conan Doyle wrote in the 19th~20th Century, he is a detective who explains all enigmas and one of the ancestors of the <U+FF62>detectives<U+FF63> that appear on the many mystery novels of later yearsó--Or so it is assumed.But what is really the truth?",
+    "desc": "The world‚Äôs sole and greatest consulting detective.The crystallization of the concept of detective; the representative of <U+FF62>those who reveals<U+FF63>.The protagonist of the stories that Sir Arthur Conan Doyle wrote in the 19th~20th Century, he is a detective who explains all enigmas and one of the ancestors of the <U+FF62>detectives<U+FF63> that appear on the many mystery novels of later years‚Äî--Or so it is assumed.But what is really the truth?",
     "item": "Archer Piece: 5\nCaster Piece: 5\nAssassin Piece: 5\n\nSaber Piece: 5\nLancer Piece: 5\nRider Piece: 5\nBerserker Piece: 5\n\nArcher Monument: 5\nCaster Monument: 5\nAssassin Monument: 5\n\nSaber Monument: 5\nLancer Monument: 5\nRider Monument: 5\nBerserker Monument: 5\n\n",
     "alias": ["holmes", "sherlock", "sherlock holmes"],
     "sex": "M"
@@ -3627,7 +3627,7 @@
     "note": "All The Statesmen! ~USA Development History~ Event",
     "NP": "(Buster)\nMarvelous Exploits A\nAmazing Feats\nDeal heavy damage to all enemies <LEVEL>Decrease DEF (5 turns) <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "True Neutral",
-    "desc": "A lumberjack that appears on the tall tales from the American Frontier, portrayed as a great man that could touch the clouds.Several legends of excessively large scale that capitalize on such giganticness exist, and many of the characteristic geographical features of North America are are said to have been created as side-effects of Bunyanís actions.The reason why he was summoned in the shape of a young girl is unknown.",
+    "desc": "A lumberjack that appears on the tall tales from the American Frontier, portrayed as a great man that could touch the clouds.Several legends of excessively large scale that capitalize on such giganticness exist, and many of the characteristic geographical features of North America are are said to have been created as side-effects of Bunyan‚Äôs actions.The reason why he was summoned in the shape of a young girl is unknown.",
     "item": "Berserker Piece: 2\n\nBerserker Piece: 4\nSeed of Yggdrassil: 3\n\nBerserker Monument: 2\nOctuplet Crystals: 4\nSpirit Root: 1\n\nBerserker Monument: 4\nSpirit Root: 2\nVoid's Dust: 8\n\n",
     "alias": ["bunyan", "paul bunyan"],
     "sex": "F"
@@ -3711,7 +3711,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nNOBUNAGA THE ROCK 'N' ROLL E~EX\nThe Demon King of the Sixth Heaven, Papiyas ~Summer Fever~\nDeal significant damage to a single enemy <LEVEL>Special Attack [Divine] <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Chaotic Summer",
-    "desc": "The beachís Demon King of the Sixth Heaven, arrives with a bang!That Nobu returns with a fantastic look that has abundantly incorporated the trends of Owari in this summer.Eh? Arenít you ashamed of this fucking lame T-shirt?Hah..., my current self is different what I had been until now! After all, this summer self of mine still has about 2 Ascensions left. Indeed, the much desired clothes-changing Ascension!Donít lose your bearings from my ascended selfís alluring figure!Uhahahaha---!...or rather, I think that this T-shirt is really cool, how about it? How about it?!",
+    "desc": "The beach‚Äôs Demon King of the Sixth Heaven, arrives with a bang!That Nobu returns with a fantastic look that has abundantly incorporated the trends of Owari in this summer.Eh? Aren‚Äôt you ashamed of this fucking lame T-shirt?Hah..., my current self is different what I had been until now! After all, this summer self of mine still has about 2 Ascensions left. Indeed, the much desired clothes-changing Ascension!Don‚Äôt lose your bearings from my ascended self‚Äôs alluring figure!Uhahahaha---!...or rather, I think that this T-shirt is really cool, how about it? How about it?!",
     "item": "Berserker Piece: 4\n\nBerserker Piece: 10\nMagic Cerebrospinal Fluid: 18\n\nBerserker Monument: 4\nChichi Divine Wine: 4\nDeadly Poison Stinger: 10\n\nBerserker Monument: 10\nDeadly Poison Stinger: 20\nClaw of Chaos: 6\n\n",
     "alias": ["summer nobu", "swimsuit nobu", "berserker nobu", "zerk nobu"],
     "sex": "F"
@@ -3732,7 +3732,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Quick)\nSecace Morgan C\nSword of Tenaciously Burning Victory\nDeal significant damage to a single enemy <LEVEL>Decrease Critical Rate (3 turns) <OVERCHARGE>Increase NP Gauge a little\nTarget: Enemy",
     "alignment": "Lawful Evil",
-    "desc": "Even an Alter wears a swimsuit. After all, it is summer.However, due some kind of conviction, she has put away the kingís crown and equipped instead a lovely white crown--- a white brim.Indeed. A maid.",
+    "desc": "Even an Alter wears a swimsuit. After all, it is summer.However, due some kind of conviction, she has put away the king‚Äôs crown and equipped instead a lovely white crown--- a white brim.Indeed. A maid.",
     "item": "Rider Piece: 5\n\nRider Piece: 12\nGreat Knight Medal: 15\n\nRider Monument: 5\nDragon's Reverse Scale: 4\nShell of Reminiscence: 5\n\nRider Monument: 12\nShell of Reminiscence: 10\nCursed Beast Gallstone: 5\n\n",
     "alias": ["maid salter", "maid alter", "swimsuit salter", "swimsuit alter", "rider alter"],
     "sex": "F"
@@ -3753,7 +3753,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Arts)\nSanat Kumara Wheel B+\nVenus God - Silver Ring\nDeal heavy damage to all enemies <LEVEL>Decrease Debuff Resist (3 turns) <OVERCHARGE>Decrease DEF (3 turns) <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Chaotic Good",
-    "desc": "Abruptly Mahatma Change both the costume and Class.Materializing the new Noble Phantasm that borrowed the power of Sanat Kumara - Kumara Wheel - to use it on the race, Helena Blavatsky challenges the summer event.Holding a cool water gun named NYARF on her hands, she scatters all the present rivals!<U+FF62>By the way, I am NYARFís manufacturer!<U+FF63><U+FF62>I made the improvements, you humdrum!<U+FF63>",
+    "desc": "Abruptly Mahatma Change both the costume and Class.Materializing the new Noble Phantasm that borrowed the power of Sanat Kumara - Kumara Wheel - to use it on the race, Helena Blavatsky challenges the summer event.Holding a cool water gun named NYARF on her hands, she scatters all the present rivals!<U+FF62>By the way, I am NYARF‚Äôs manufacturer!<U+FF63><U+FF62>I made the improvements, you humdrum!<U+FF63>",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nSerpent Jewel: 5\n\nArcher Monument: 4\nLamp of Evil-Sealing: 5\nBlack Beast Grease: 3\n\nArcher Monument: 10\nBlack Beast Grease: 5\nShell of Reminiscence: 10\n\n",
     "alias": ["swimsuit helena", "helena blavatsky archer", "archer helena", "summer helena"],
     "sex": "F"
@@ -3774,7 +3774,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nShaku Daikanin Kongousho A+\nSakra Devanam Indra Vajra\nDeal significant damage to a single enemy that ignores DEF <LEVEL>Gain Critical Stars <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "Raikou heard about the considerable disturbance of public morals that took place on the southern island previously.<U+FF62>Such situation must not happen in this yearís event<U+FF63> - a compulsory Class Change resulted from her dedicating such prayer to the Gozo Tenno. Although not to the extent of her proper Class (Saber), Lancer Minamoto Raikou accomplished a metamorphosis in which her motherly power was inhibited and the disposition of protecting the capital was strengthened.<U+FF62>Raikou-san turns unbelievably serious when it comes to her main job as a Saber. A super-Public Morals Chairwoman.<U+FF63><U+FF62>As a Lancer, yeah, she would be like a Public Morals Chairwoman of the shadows. Well, in other words---<U+FF63>In other words, a sukeban.With her motherly power inhibited, Raikou cuts off the summer as a dignified warrior that protects the capital!",
+    "desc": "Raikou heard about the considerable disturbance of public morals that took place on the southern island previously.<U+FF62>Such situation must not happen in this year‚Äôs event<U+FF63> - a compulsory Class Change resulted from her dedicating such prayer to the Gozo Tenno. Although not to the extent of her proper Class (Saber), Lancer Minamoto Raikou accomplished a metamorphosis in which her motherly power was inhibited and the disposition of protecting the capital was strengthened.<U+FF62>Raikou-san turns unbelievably serious when it comes to her main job as a Saber. A super-Public Morals Chairwoman.<U+FF63><U+FF62>As a Lancer, yeah, she would be like a Public Morals Chairwoman of the shadows. Well, in other words---<U+FF63>In other words, a sukeban.With her motherly power inhibited, Raikou cuts off the summer as a dignified warrior that protects the capital!",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nShell of Reminiscence: 6\n\nLancer Monument: 4\nProof of Hero: 24\nEternal Gear: 4\n\nLancer Monument: 10\nEternal Gear: 8\nHeart of the Foreign God: 4\n\n",
     "alias": ["swimsuit raikou", "summer raikou"],
     "sex": "F"
@@ -3795,7 +3795,7 @@
     "note": "Summer 2017 Event",
     "NP": "(Quick)\nAngalta Seven Colors EX\nRainbow of Venus that Goes Around the Divine Summit of Heaven\nIncrease Quick Card effectiveness (1 turn) <OVERCHARGE>Deal heavy damage to all enemies <LEVEL>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "Goddess of Venus Ishtar, her summer guise.She held a grand event after having been impressed by the wild enthusiasm... devotion of people towards summer festivals - truly a goddess-like goddess. Driving the Heavenly Boat Maanna that has been rearranged to a modern style, she is also a kung fu-type goddess who casually, and thrillingly, makes free use of her body.<U+300C>Hey everyone, are you all having a fun time~~!? The best~~? Yeah yeah, thatís good, thatís good! Please keep at it more and more, until your limit okay~!<U+300D>Just like this, cordially and generously, she blesses all those who gathered on the venue - truly a goddess among goddesses.Now, what exactly lies behind that smiling face.",
+    "desc": "Goddess of Venus Ishtar, her summer guise.She held a grand event after having been impressed by the wild enthusiasm... devotion of people towards summer festivals - truly a goddess-like goddess. Driving the Heavenly Boat Maanna that has been rearranged to a modern style, she is also a kung fu-type goddess who casually, and thrillingly, makes free use of her body.<U+300C>Hey everyone, are you all having a fun time~~!? The best~~? Yeah yeah, that‚Äôs good, that‚Äôs good! Please keep at it more and more, until your limit okay~!<U+300D>Just like this, cordially and generously, she blesses all those who gathered on the venue - truly a goddess among goddesses.Now, what exactly lies behind that smiling face.",
     "item": "Golden Reed: 1\n\nGolden Reed: 1\n\nGolden Reed: 1\n\nGolden Reed: 1\n\n",
     "alias": ["swimsuit ishtar", "rider ishtar", "summer ishtar"],
     "sex": "F"
@@ -3837,7 +3837,7 @@
     "note": "",
     "NP": "(Buster)\nOn Arorikiya Sowaka B\nMantra - Aryavalokitesvara Bodhisattva\nDeal significant damage to a single enemy <LEVEL>Decrease Critical Rate (3 turns)Inflict Burn (5 turns)Inflict Ignite (Increase the effects of Burn) (5 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "True Neutral",
-    "desc": "She will probably smile gently.So long fury does not completely fill her heart.As a scion of ¶¶¶¶, she is conspicuously endowed with a savage disposition, but by containing that to the brink thanks to her feelings towards her beloved one, she has acquired individuality as a calm human woman.---or so it seems.",
+    "desc": "She will probably smile gently.So long fury does not completely fill her heart.As a scion of ¬¶¬¶¬¶¬¶, she is conspicuously endowed with a savage disposition, but by containing that to the brink thanks to her feelings towards her beloved one, she has acquired individuality as a calm human woman.---or so it seems.",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nMeteor Horseshoe: 6\n\nArcher Monument: 4\nPhoenix Feather: 7\nKotan Magatama: 4\n\nArcher Monument: 10\nKotan Magatama: 8\nBlack Beast Grease: 6\n\n",
     "alias": ["tomoe", "archer inferno", "2moe", "archer of inferno", "tomoe gozen"],
     "sex": "F"
@@ -3963,7 +3963,7 @@
     "note": "Halloween 2017 Event",
     "NP": "(Buster)\nBreast Zero Erzsebet B\nIron Sky Demoness\nDeal significant damage to a single enemy <LEVEL>Remove Defensive Buffs (3 turns)Decrease DEF (3 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "Human science has finally come this far?!No, thatís not right - this has nothing to do with science.After being repeatedly assaulted by abnormal events, the Csejte Castle has finally dispatched its final weapon.That is a legacy left behind by a nameless sage.A treasure stored in the Csejte Castleís basement.A guardian statue that shouldnít be able to speak hailed at the figure of the demoness of fresh blood (who happened upon a Holy Grail many times over just to fail in the end) and finally awakened as a guardian deity.Her name is Alter Ego∑Mecha Eli-chan.A demoness of justice who woke up to the heart of a feudal lord, and went a little bit too far.",
+    "desc": "Human science has finally come this far?!No, that‚Äôs not right - this has nothing to do with science.After being repeatedly assaulted by abnormal events, the Csejte Castle has finally dispatched its final weapon.That is a legacy left behind by a nameless sage.A treasure stored in the Csejte Castle‚Äôs basement.A guardian statue that shouldn‚Äôt be able to speak hailed at the figure of the demoness of fresh blood (who happened upon a Holy Grail many times over just to fail in the end) and finally awakened as a guardian deity.Her name is Alter Ego¬∑Mecha Eli-chan.A demoness of justice who woke up to the heart of a feudal lord, and went a little bit too far.",
     "item": "B Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\n",
     "alias": ["mecha eli", "mecha eli-chan"],
     "sex": "F"
@@ -4068,7 +4068,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nQliphoth Rhizome EX\nHollow Tree Wearing a Husk of Light\nRemove all BuffsDeal significant damage to a single enemy <LEVEL>Decrease Critical Rate (1 turn) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Chaotic Evil",
-    "desc": "You are a sinner, the knot of seven cords.That which seeks atonement in the land of heresy, is the fruits of a demonís labors.---who is the next victim to be indicated by the pure young girl?",
+    "desc": "You are a sinner, the knot of seven cords.That which seeks atonement in the land of heresy, is the fruits of a demon‚Äôs labors.---who is the next victim to be indicated by the pure young girl?",
     "item": "Void's Dust: 10\nForbidden Page: 10\n\nSerpent Jewel: 10\nClaw of Chaos: 10\n\nBlack Beast Grease: 10\nTearstone of Blood: 10\n\nIron Stake of Evening Tears: 10\nCursed Beast Gallstone: 10\n\n",
     "alias": ["abby", "best daughteru", "abigail", "abigail williams"],
     "sex": "F"
@@ -4089,7 +4089,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Buster)\nKur Kigal Irkalla A\nSacred Mountain-Crunching Bellows of Netherworld\nIncrease own Buster Card effectiveness (1 turn) <OVERCHARGE>Deal heavy damage to all enemies <LEVEL>Increase ATK of all allies with [Protection of the Netherworld] (3 turns)\nTarget: All Enemies",
     "alignment": "Chaotic Evil",
-    "desc": "The netherworld deity from Sumerian mythology.The fearsome ruler of the Netherworld who freely handling a cage that is much like a spear, at times she impales the enemies, at times locks up their souls and at times generates lightning bolts.Bearing the professional duty of managing the Netherworld from the moment she was born, a goddess who disappeared together with the Age of Gods without ever learning about freedom and the surface.That figure is not of the Goddess Ereshkigal herself, but a Pseudo-Servant state in which a human soul with a wavelength close to hers was made into a vessel.Much like a goddess of the Netherworld, she says that surveilling humans is her duty but---<U+FF62>... Iíll be troubled if they come to the Netherworld in great numbers... it is hard to build the cages to imprison their souls after all... I wonder if I can properly offer a comfortable place for them....<U+FF63>---just like this, she cannot fully conceal her helpful nature.Truly, a (red) angel of the netherworld.",
+    "desc": "The netherworld deity from Sumerian mythology.The fearsome ruler of the Netherworld who freely handling a cage that is much like a spear, at times she impales the enemies, at times locks up their souls and at times generates lightning bolts.Bearing the professional duty of managing the Netherworld from the moment she was born, a goddess who disappeared together with the Age of Gods without ever learning about freedom and the surface.That figure is not of the Goddess Ereshkigal herself, but a Pseudo-Servant state in which a human soul with a wavelength close to hers was made into a vessel.Much like a goddess of the Netherworld, she says that surveilling humans is her duty but---<U+FF62>... I‚Äôll be troubled if they come to the Netherworld in great numbers... it is hard to build the cages to imprison their souls after all... I wonder if I can properly offer a comfortable place for them....<U+FF63>---just like this, she cannot fully conceal her helpful nature.Truly, a (red) angel of the netherworld.",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nGhost Lantern: 8\n\nLancer Monument: 5\nFool's Chain: 29\nHeart of the Foreign God: 2\n\nLancer Monument: 12\nHeart of the Foreign God: 4\nChichi Divine Wine: 5\n\n",
     "alias": ["eresh", "ereshkigal"],
     "sex": "F"
