@@ -227,7 +227,7 @@
     "alignment": "Lawful Good",
     "desc": "A French noble and soldier. During the Hundred Years War, he recaptured Orleans together with the female saint, Jeanne d'Arc, and was extolled as a hero. With an honest and valorous personality, he was given the highest honor as a soldier - the title of marshal.",
     "item": "Saber Piece: 4\n\nProof of Hero: 15\nSaber Piece: 8\n\nVoid's Dust: 13\nEvil Bone: 10\nSaber Monument: 4\n\nEvil Bone: 20\nHeart of the Foreign God: 4\nSaber Monument: 8\n\n",
-    "alias": ["gilles", "gilles de rais", "gilles saber"],
+    "alias": ["gilles", "gilles de rais", "gilles saber", "saber gilles"],
     "sex": "M"
   },
   "010": {
@@ -248,7 +248,7 @@
     "alignment": "True Neutral",
     "desc": "A legendary individual from the 18th, 19th Century France, described as a feminine man or a masculine woman. A writer and swordsman accomplished in both literary and military arts. While having the world's major powers as his opponent, he flourished as a spy of the secret channels and also served as a plenipotentiary minister and a dragoon regimental commander.",
     "item": "Saber Piece: 4\n\nProof of Hero: 18\nSaber Piece: 10\n\nPhoenix Feather: 4\nSeed of Yggdrassil: 10\nSaber Monument: 4\n\nPhoenix Feather: 7\nSerpent Jewel: 8\nSaber Monument: 10\n\n",
-    "alias": ["deon", "chevalier", "chevalier deon", "chevalier d'Eon"],
+    "alias": ["deon", "chevalier", "chevalier deon", "chevalier d'Eon", "d'eon"],
     "sex": "?"
   },
   "011": {
@@ -269,7 +269,7 @@
     "alignment": "True Neutral",
     "desc": "Because his basis differs from that of the other Heroic Spirits, he cannot be called a legitimate Heroic Spirit. This Heroic Spirit is a something called a Guardian; something like a defensive apparatus brought forth by mankind's collective unconsciousness of <U+FF62>ought to perpetuate<U+FF63>. The way of being of such defense is called the Counter Force of humanity. In short, a faceless representative of justice elected by the nameless people.",
     "item": "Archer Piece: 4\n\nProof of Hero: 18\nArcher Piece: 10\n\nEternal Gear: 8\nHeart of the Foreign God: 2\nArcher Monument: 4\n\nVoid's Dust: 20\nHeart of the Foreign God: 4\nArcher Monument: 10\n\n",
-    "alias": ["emiya", "mama emiya", "archer"],
+    "alias": ["emiya", "mama emiya", "archer", "faker", "feika", "feikah", "garcher"],
     "sex": "M"
   },
   "012": {
@@ -773,7 +773,7 @@
     "alignment": "Chaotic Evil",
     "desc": "Alas, the demon! The demon! The demon has come!It's Mephistopheles! That vile demon!",
     "item": "Caster Piece: 4\n\nVoid's Dust: 10\nCaster Piece: 8\n\nHomunculus Baby: 7\nHeart of the Foreign God: 2\nCaster Monument: 4\n\nGhost Lantern: 8\nHeart of the Foreign God: 3\nCaster Monument: 8\n\n",
-    "alias": ["mephisto", "mephistopheles"],
+    "alias": ["mephisto", "mephistopheles", "mephi"],
     "sex": "M"
   },
   "036": {
@@ -857,7 +857,7 @@
     "alignment": "Neutral Evil",
     "desc": "A swordsman described as a worthy rival of one of Japan's prominent master fencer - Miyamoto Musashi. Mastering the Ganryuu-style at a young age, a genius swordsman said to find no equal no matter where he went. And yet......",
     "item": "Assassin Piece: 2\n\nProof of Hero: 8\nAssassin Piece: 4\n\nVoid's Dust: 7\nEternal Gear: 2\nAssassin Monument: 2\n\nEternal Gear: 4\nOctuplet Crystals: 4\nAssassin Monument: 4\n\n",
-    "alias": ["kojirou", "sasaki kojirou", "kojibro", "savior of france"],
+    "alias": ["kojirou", "sasaki kojirou", "kojibro", "savior of france", "kojiro"],
     "sex": "M"
   },
   "040": {
@@ -1382,7 +1382,7 @@
     "alignment": "Lawful Neutral",
     "desc": "In the Trojan War, Hector was the supreme hero of the Trojan side. In face of overwhelming difference of soldiers, he maintained the siege by all means. Some even regard that, if it wasn't by Achilles, the war could have ended with the victory of the Trojans.",
     "item": "Lancer Piece: 4\n\nMeteor Horseshoe: 5\nLancer Piece: 8\n\nSeed of Yggdrassil: 4\nProof of Hero: 20\nLancer Monument: 4\n\nPhoenix Feather: 7\nSeed of Yggdrassil: 8\nLancer Monument: 8\n\n",
-    "alias": ["hektor"],
+    "alias": ["hektor", "hector"],
     "sex": "M"
   },
   "065": {
@@ -1466,7 +1466,7 @@
     "alignment": "True Neutral",
     "desc": "Okita Souji; captain of the First Unit of the Shinsengumi, a public order organization that was mostly active in the Kyoto of the Edo period's closing days. Even among the Shinsengumi, which was feared as a band of master swordsmen, the one admired as the strongest genius swordsman was Okita.",
     "item": "Saber Piece: 5\n\nVoid's Dust: 15\nSaber Piece: 12\n\nEternal Gear: 5\nDragon Fang: 24\nSaber Monument: 5\n\nPhoenix Feather: 10\nEternal Gear: 10\nSaber Monument: 12\n\n",
-    "alias": ["okita", "okita souji"],
+    "alias": ["okita", "okita souji", "daishouri", "tuberculosis"],
     "sex": "F"
   },
   "069": {
@@ -1487,7 +1487,7 @@
     "alignment": "Lawful Neutral",
     "desc": "The soldier of fortune from the Warring States Period, Oda Nobunaga. While she was called the <U+FF62>Big Fool of Owari<U+FF63> in her childhood, she made a name for herself in the world upon defeating Imagawa Yoshimoto in Okehazama. Afterwards, she eliminated many formidable enemies one after the other and even had the unification of the country within reach of her hands, but passed away in Honnoji thanks to the insurrection of Akechi Mitsuhide.",
     "item": "Golden Skull: 1\n\nGolden Skull: 1\n\nGolden Skull: 1\n\nGolden Skull: 1\n\n",
-    "alias": ["nobu", "oda nobunaga", "nobu archer", "archer nobu"],
+    "alias": ["nobu", "oda nobunaga", "nobu archer", "archer nobu", "demon king", "nobunaga"],
     "sex": "F"
   },
   "070": {
@@ -1676,7 +1676,7 @@
     "alignment": "Lawful Good",
     "desc": "The King of Knights of the Round Table that is described in legends.In reality a lovely girl-knight, and yet possesses both purity and integrity just like in legends.She is known as a holy sword-user, but the holy spear she possesses is actually quite powerful as well, making possible to manifest as a Lancer.---furthermore, it is also possible for her to materialize as the possibility of having been violated by the curse of the Holy Grail like this. The spear-wielding aspect of the King of Knights that persists in being heartless.",
     "item": "Lancer Piece: 4\n\nMeteor Horseshoe: 6\nLancer Piece: 10\n\nDragon's Reverse Scale: 2\nPhoenix Feather: 7\nLancer Monument: 4\n\nDragon's Reverse Scale: 4\nHeart of the Foreign God: 4\nLancer Monument: 10\n\n",
-    "alias": ["lalter", "lancer alter", "artoria pendragon alter lancer"],
+    "alias": ["lalter", "lancer alter", "artoria pendragon alter lancer", "artoria lancer alter", "lancer artoria alter"],
     "sex": "F"
   },
   "079": {
@@ -1928,7 +1928,7 @@
     "alignment": "Chaotic Bride",
     "desc": "With a whole new get-up, the emperor of roses wrapped herself in a pure white outfit.Due the exchange of outfit, her tension has also changed and her combat-styled underwent a variation from its original condition.Even her favorite sword - Original Fire - has read the mood and converted its blade from red to silvery snow.",
     "item": "Saber Piece: 5\n\nSaber Piece: 12\nOctuplet Crystals: 8\n\nSaber Monument: 5\nGhost Lantern: 10\nPhoenix Feather: 4\n\nSaber Monument: 12\nPhoenix Feather: 8\nSeed of Yggdrassil: 15\n\n",
-    "alias": ["nero bride", "bride nero", "nero claudius (bride)"],
+    "alias": ["nero bride", "bride nero", "nero claudius (bride)", ""],
     "sex": "F"
   },
   "091": {
@@ -2054,7 +2054,7 @@
     "alignment": "Chaotic Evil",
     "desc": "The individual known as the world's most prominent avenger. Popularly known as the <U+FF62>King of the Cavern<U+FF63> or the <U+FF62>Count of Monte Cristo<U+FF63>. Although imprisoned on the hellish If Tower (Chateau d'If) due to a false charge derived from an unscrupulous conspiracy, he did not fell on despair thanks to a mind of steel, and the story goes that he eventually acquired the treasure of the Monte Cristo island and swooped down upon Paris-- dragging down many leading figures that reigned over France - that is, the people who once deceived him - into hell.",
     "item": "Octuplet Crystals: 10\nEvil Bone: 10\n\nSerpent Jewel: 10\nForbidden Page: 10\n\nVoid's Dust: 10\nEternal Gear: 10\n\nPhoenix Feather: 10\nHeart of the Foreign God: 10\n\n",
-    "alias": ["dantes", "edmond", "count"],
+    "alias": ["dantes", "edmond", "count", "kuhahaha", "edgelord"],
     "sex": "M"
   },
   "097": {
@@ -2537,7 +2537,7 @@
     "alignment": "Lawful Good",
     "desc": "The legendary King of Knights who controlled Britain, King Arthur. An IF King Arthur who, after rising as a king, made the holy spear its main weapon instead of the holy sword and governed over Britain. Having lost the growth-halt from the holy sword, she grew to a physical age fitting for a king. She became an existence closer to Divine Spirits due to using the holy spear, but since the period of use was just that of ten-odd years, her mental structure and spiritual make-up has not changed too much.",
     "item": "Lancer Piece: 5\n\nLancer Piece: 12\nDragon Fang: 18\n\nLancer Monument: 5\nGreat Knight Medal: 20\nWarhorse's Young Horn: 3\n\nLancer Monument: 12\nWarhorse's Young Horn: 6\nDragon's Reverse Scale: 5\n\n",
-    "alias": ["titoria", "tittoria", "artoria lancer", "lancer artoria", "artoria pendragon", "artoria pendragon lancer"],
+    "alias": ["titoria", "tittoria", "artoria lancer", "lancer artoria", "artoria pendragon", "artoria pendragon lancer", "lartoria"],
     "sex": "F"
   },
   "120": {
@@ -2663,7 +2663,7 @@
     "alignment": "Neutral Good",
     "desc": "A warrior from the mid-Heian period, Tawara Touta was revered as the founder of martial arts in the Kanto provinces. Later introducing himself as Fujiwara Hidesato, he suddenly won fame by shooting Taira Masakado. It has been told that he exterminated a great centipede - big enough to make seven and a half turns in a mountain - with a bow and arrow.",
     "item": "Archer Piece: 4\n\nArcher Piece: 8\nSeed of Yggdrassil: 6\n\nArcher Monument: 4\nProof of Hero: 20\nPhoenix Feather: 3\n\nArcher Monument: 8\nPhoenix Feather: 6\nSpirit Root: 4\n\n",
-    "alias": ["touta", "tawara touta"],
+    "alias": ["touta", "tawara touta", "tawara"],
     "sex": "M"
   },
   "126": {
@@ -3104,7 +3104,7 @@
     "alignment": "Neutral Good",
     "desc": "The youngest of the Gorgon Sisters that appears in Greek Mythology. A goddess born as a perfected <U+FF62>image (idol)<U+FF63>, the embodiment of men's longing. Due some factor, the anti-hero Medusa acquired a condition as a goddess that is close to that of her two sisters and manifested as a Servant.",
     "item": "Lancer Piece: 4\n\nLancer Piece: 10\nShell of Reminiscence: 6\n\nLancer Monument: 4\nSeed of Yggdrassil: 10\nPhoenix Feather: 4\n\nLancer Monument: 10\nPhoenix Feather: 7\nDeadly Poison Stinger: 24\n\n",
-    "alias": ["medusa lily"],
+    "alias": ["medusa lily", "meduloli", "lancer medusa", "medusa lancer"],
     "sex": "F"
   },
   "147": {
@@ -3146,7 +3146,7 @@
     "alignment": "Chaotic Neutral",
     "desc": "A divine spirit of old handed down on Central and South America. The jaguar is, namely, a symbol of <U+FF62>war<U+FF63> and <U+FF62>death<U+FF63>, an existence revered for a long time on the Central and South American civilizations of all periods, and it has been said that, in the past, it would reveal itself to the world from time to time. In the Olmec civilization of the Preclassic Period, the jaguar deity was a mixed-blood of human and jaguar......Deified in the shape of a <U+300E>human jaguar (jaguarman/werejaguar)<U+300F> and the likes.",
     "item": "Lancer Piece: 4\n\nLancer Piece: 8\nSeed of Yggdrassil: 6\n\nLancer Monument: 4\nClaw of Chaos: 4\nBlack Beast Grease: 2\n\nLancer Monument: 8\nBlack Beast Grease: 4\nPrimordial Lanugo: 5\n\n",
-    "alias": ["taiga", "jaguar warrior", "jaguarman"],
+    "alias": ["taiga", "jaguar warrior", "jaguarman", "jaguar man"],
     "sex": "F"
   },
   "151": {
@@ -3293,7 +3293,7 @@
     "alignment": "Chaotic Evil",
     "desc": "Not the nameless one brought forth by society, but an insentient enforcer that - by his own accord - threw away and forfeit his name. His memories are damaged and he has also parted with his past. This man continues to laugh at himself, who has forsaken morals, held affection in contempt and have become a living corpse.",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nFool's Chain: 18\n\nArcher Monument: 4\nEternal Gear: 8\nBlack Beast Grease: 3\n\nArcher Monument: 10\nBlack Beast Grease: 5\nMagic Cerebrospinal Fluid: 30\n\n",
-    "alias": ["emiya alter"],
+    "alias": ["emiya alter", "demiya"],
     "sex": "M"
   },
   "158": {
@@ -3692,7 +3692,7 @@
     "alignment": "Lawful Good",
     "desc": "A mysterious existence appeared on Chaldea.That solemnity, that dignity, that brazen figure - who does it belong to after all!?It seems to resemble a certain existence from Ancient Egyptian Mythology, but...?",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 10\nGhost Lantern: 6\n\nAssassin Monument: 4\nShell of Reminiscence: 8\nPhoenix Feather: 4\n\nAssassin Monument: 10\nPhoenix Feather: 7\nScarab of Wisdom: 4\n\n",
-    "alias": ["swimsuit nito", "summer nito", "ass nito", "assassin nito", "assassin nitocris"],
+    "alias": ["swimsuit nito", "summer nito", "ass nito", "assassin nito", "assassin nitocris", "swimsuit nitocris", "summer nitocris"],
     "sex": "F"
   },
   "178": {
@@ -3713,7 +3713,7 @@
     "alignment": "Chaotic Summer",
     "desc": "The beach’s Demon King of the Sixth Heaven, arrives with a bang!That Nobu returns with a fantastic look that has abundantly incorporated the trends of Owari in this summer.Eh? Aren’t you ashamed of this fucking lame T-shirt?Hah..., my current self is different what I had been until now! After all, this summer self of mine still has about 2 Ascensions left. Indeed, the much desired clothes-changing Ascension!Don’t lose your bearings from my ascended self’s alluring figure!Uhahahaha---!...or rather, I think that this T-shirt is really cool, how about it? How about it?!",
     "item": "Berserker Piece: 4\n\nBerserker Piece: 10\nMagic Cerebrospinal Fluid: 18\n\nBerserker Monument: 4\nChichi Divine Wine: 4\nDeadly Poison Stinger: 10\n\nBerserker Monument: 10\nDeadly Poison Stinger: 20\nClaw of Chaos: 6\n\n",
-    "alias": ["summer nobu", "swimsuit nobu", "berserker nobu", "zerk nobu"],
+    "alias": ["summer nobu", "swimsuit nobu", "berserker nobu", "zerk nobu", "summer nobunaga", "swimsuit nobunaga", "berserker nobunaga"],
     "sex": "F"
   },
   "179": {
@@ -3944,7 +3944,7 @@
     "alignment": "Chaotic Neutral",
     "desc": "Osakabe-hime (also called Osakabe-dono in <U+FF62>Saikaku Shokoku-banashi<U+FF63>, or Osakabe in Konjaku Gazu Zoku Hyakki) is a type of youkai that was enshrined as the landlord deity of Himeji.In the present, she is well-known as a castle monster that settled in the castle tower of Himeji Castle.",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nSeed of Yggdrassil: 9\n\nAssassin Monument: 5\nVoid's Dust: 20\nForbidden Page: 5\n\nAssassin Monument: 12\nForbidden Page: 10\nSpirit Root: 5\n\n",
-    "alias": ["osakabe hime", "neet", "okki", "okki hime", "okkie"],
+    "alias": ["osakabe hime", "neet", "okki", "okki hime", "okkie", "osakabe-hime"],
     "sex": "F"
   },
   "190": {
@@ -3986,7 +3986,7 @@
     "alignment": "Lawful Good",
     "desc": "The other strange Servant that appeared on that extremely chaotic Halloween.Her appearance resembles Mecha Eli-chan, her Noble Phantasm is a matching set with Mecha Eli-chan's, and even her skills and parameters are exactly the same.What does this strange coincidence represents...?Rumors goes that she is the wisest, the one with greatest heroine-power (strength) among the Elisabeth species, but really????<U+300C>...Let me just warn you I will kill you if you call me a cheap knockoff.<U+300D>",
     "item": "B Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\n",
-    "alias": ["mk II", "mecha eli mk II", "mecha eli-chan mk II"],
+    "alias": ["mk II", "mecha eli mk II", "mecha eli-chan mk II", "Mecha eli-chan Mk.II", "mecha eli II", "mecha eli"],
     "sex": "F"
   },
   "192": {
@@ -4112,7 +4112,7 @@
     "alignment": "Chaotic Good",
     "desc": "Look at the sky.Anyone who harbors a prayer in the holy night should be able to see it.A rainbow streak that soars across the night sky.A herd of sheep crying <U+FF62>baa<U+FF63>.And the figure of a lovely Santa, dressed in a bold costume and with a slight cold...!Her name is Altera, the Sun(ta).The Western Great King, the sword-princess possessing the Crest of the Stars awakened from an unfortunate fate to the mission as a Santa Claus and stood up without giving in to her first poor physical health ever (slight fever) - the reliable Third Heroic Spirit of Christmas.On this occasion, she is being accompanied by many nomadic riders thanks to the anecdote as a Great King... or so it should have been, but all of them have the shape of cute sheep (yet, of cosmic specifications). Why is that?",
     "item": "Santa Mustache: 1\n\nSanta Mustache: 1\n\nSanta Mustache: 1\n\nSanta Mustache: 1\n\n",
-    "alias": ["santa altera", "altera the sun (ta)", "altera the santa"],
+    "alias": ["santa altera", "altera the sun (ta)", "altera the santa", "sun ta", "altera santa"],
     "sex": "F"
   },
   "198": {
@@ -4238,7 +4238,7 @@
     "alignment": "Lawful Neutral",
     "desc": "His real name is Solomon ben Judah ibn Gabirol. A philosopher, poet and a kabbalist of the 11th century that employs one of the main genres of magecraft, the Kabbalah.",
     "item": "Caster Piece: 4\n\nCaster Piece: 8\nOctuplet Crystals: 5\n\nCaster Monument: 4\nHomunculus Baby: 7\nLamp of Evil-Sealing: 2\n\nCaster Monument: 8\nLamp of Evil-Sealing: 4\nScarab of Wisdom: 4\n\n",
-    "alias": ["Avicebron"],
+    "alias": ["Avicebron", "avi", "avice"],
     "sex": "M"
   },
   "204": {
@@ -4406,7 +4406,7 @@
     "alignment": "Chaotic Good",
     "desc": "A key figure of the Satsuma-Choshu Alliance and a patriot who made great contributions for the Meiji Restoration - such as forming the Kameyama Company (later known as the Kaientai and assisting in the establishment of the restoration of imperial rule.An easygoing young man in his mid-twenties. Although a master of the Hokushin Ittou-ryuu, by nature he is a softhearted person who does not enjoy conflict. A mysterious beauty is constantly cuddling close together at his side.",
     "item": "Kaientai Flag: 1\n\nKaientai Flag: 1\n\nKaientai Flag: 1\n\nKaientai Flag: 1\n\n",
-    "alias": ["ryouma", "sakamoto ryouma"],
+    "alias": ["ryouma", "sakamoto ryouma", "ryoma", "sakamoto ryoma"],
     "sex": "M"
   },
   "212": {
@@ -4511,7 +4511,7 @@
     "alignment": "Lawful Summer",
     "desc": "",
     "item": "Archer Piece: 5\n\nArcher Piece: 12\nEternal Frost: 8\n\nArcher Monument: 5\nShell of Reminiscence: 10\nAurora Steel: 5\n\nArcher Monument: 12\nAurora Steel: 10\nScarab of Wisdom: 5\n\n",
-    "alias": ["jarcher", "swimsuit jeanne", "summer jeanne"],
+    "alias": ["jarcher", "swimsuit jeanne", "summer jeanne", "jeanne archer", "archer jeanne"],
     "sex": "F"
   },
   "217": {
