@@ -2327,7 +2327,7 @@
     "alignment": "Chaotic Evil",
     "desc": "An assassin who manifested as a proxy of the Counter Force.",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 10\nProof of Hero: 18\n\nAssassin Monument: 4\nVoid's Dust: 8\nEvil Bone: 24\n\nAssassin Monument: 10\nVoid's Dust: 16\nTearstone of Blood: 6\n\n",
-    "alias": ["kerry", "emiya (assassin)", "kiritsugu"],
+    "alias": ["kerry", "emiya (assassin)", "kiritsugu", "kiri"],
     "sex": "M"
   },
   "110": {
@@ -2453,7 +2453,7 @@
     "alignment": "Lawful Good",
     "desc": "A humorous leather jacket.A neat hair style.And a cool buckle shining on his waist.The lightning Rider that does not have a single sign of Japanese-style, Mr. Golden, Sakata Kintoki, makes an entrance here!<U+FF62>You'll ride tandem with me? Then fasten your helmet and suit's zipper tight, okay? For I'll grab a hold of your heart faster than thunder can fall!<U+FF63>",
     "item": "Golden Bear Lighter: 1\n\nGolden Bear Lighter: 1\n\nGolden Bear Lighter: 1\n\nGolden Bear Lighter: 1\n\n",
-    "alias": ["kintoki rider", "rider kintoki", "sakata kintoki rider", "sakata kintoki"],
+    "alias": ["kintoki rider", "rider kintoki", "sakata kintoki rider", "sakata kintoki", "ridertoki"],
     "sex": "M"
   },
   "116": {
@@ -3335,7 +3335,7 @@
     "alignment": "Chaotic Evil",
     "desc": "A star in the heavens, and a ruffian on the earth.The man who was supposed to be just an illusion was generated together with his fighting style.Well then, who am I!?",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 10\nVoid's Dust: 12\n\nAssassin Monument: 4\nGhost Lantern: 8\nOctuplet Crystals: 4\n\nAssassin Monument: 10\nOctuplet Crystals: 8\nPhoenix Feather: 8\n\n",
-    "alias": ["assasshin", "shinjuku assassin", "assassin shinjuku", "yan", "qing", "yan qing"],
+    "alias": ["assasshin", "shinjuku assassin", "assassin shinjuku", "yan", "qing", "yan qing", "shinshin"],
     "sex": "M"
   },
   "160": {
