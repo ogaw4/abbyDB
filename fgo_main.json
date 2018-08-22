@@ -1763,10 +1763,10 @@
     "alias": ["fran", "frankenstein"],
     "sex": "F"
   },
-  "85": {
+  "083": {
     "rarity": "5",
     "attacks": "0102020203",
-    "id": null,
+    "id": "083",
     "name": "Solomon",
     "servantClass": "Grand Caster",
     "cost": "16",
@@ -3149,10 +3149,10 @@
     "alias": ["taiga", "jaguar warrior", "jaguarman", "jaguar man"],
     "sex": "F"
   },
-  "151": {
+  "149": {
     "rarity": "5",
     "attacks": "0102020303",
-    "id": null,
+    "id": "149",
     "name": "Tiamat",
     "servantClass": "Beast II",
     "cost": "16",
