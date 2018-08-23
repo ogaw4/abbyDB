@@ -3208,7 +3208,7 @@
     "NP": "(Arts)\nArs Almadel Salomonis \nThe Time of Birth Has Come, He is the One Who Masters All\nDeal heavy damage to all enemiesDecrease Quick, Arts or Buster Card Performance at random (1 turn)\nTarget: All Enemies",
     "alignment": "Unknown",
     "desc": "The aggregate-body of the 72 demons. After King Solomon’s death, the 72 demons that were sealed away inside his corpse awakened to their own ideology, swindled Solomon’s name (although, from their point of view, they are the true King of Magecraft Solomon) and embarked on a new venture to convert the entire mankind into energy.  To begin with, the 72 demons were “a system to efficiently promote proper reason” invented by the founder of (human) magic, Solomon. Said system grieved and raged against the relationship between King Solomon and humans, becoming a curse that takes action to conquer “the imperfectness of humans” that King Solomon continued to ignore.  Its name is Humanity's Foundation Incineration Formula, Goetia. A magic with its own will that was devised in order to attain true wisdom, and is now attempting to reach the origin while making use of the entire human history.",
-    "item": "None",
+    "item": "\n\n\n\n\n\n\n\n",
     "alias": ["goetia", "spooky salmon"],
     "sex": "M"
   },
@@ -3229,7 +3229,7 @@
     "NP": "(Buster)\nArs Nova A\nThe Time for Farewell has Come, He is the One Who Lets Go of the World\nDeal significant damage to a single enemy that ignores DEF <LEVEL>Inflict Burn (5 turns) <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Unknown",
     "desc": "An individual from 1011~931 BC. The Third King of Ancient Israel The great king who made Ancient Israel prosper the most. Employing 72 demons, he is also the first individual to build the Temple of Israel. He performed excellent political measures as a king, but beside that also possess many anecdotes as a magus.",
-    "item": "None",
+    "item": "\n\n\n\n\n\n\n\n",
     "alias": ["solomon", "normal solomon"],
     "sex": "M"
   },
