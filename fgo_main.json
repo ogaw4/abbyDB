@@ -2957,7 +2957,7 @@
     "alignment": "Lawful Neutral",
     "desc": "The tragic queen who carved her beauty in history, Cleopatra VII. The last queen of Ptolemaic Egypt and, in practice, the last pharaoh of Ancient Egypt. In many literary works, she is told as a bewitching beauty who indulged in love and misappropriated her country, but the truth is the exact opposite. She is highly intelligent, being specially gifted in financial handiness. Under the command of this top lady, the militarily inferior Ptolemaic Egypt grew into one of the greatest economic powers in the world.",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nPhoenix Feather: 6\n\nAssassin Monument: 5\nLamp of Evil-Sealing: 6\nTearstone of Blood: 3\n\nAssassin Monument: 12\nTearstone of Blood: 6\nSerpent Jewel: 10\n\n",
-    "alias": ["cleopatra"],
+    "alias": ["cleopatra", "cleo"],
     "sex": "F"
   },
   "140": {
@@ -4028,7 +4028,7 @@
     "alignment": "Lawful Good",
     "desc": "The other strange Servant that appeared on that extremely chaotic Halloween.Her appearance resembles Mecha Eli-chan, her Noble Phantasm is a matching set with Mecha Eli-chan's, and even her skills and parameters are exactly the same.What does this strange coincidence represents...?Rumors goes that she is the wisest, the one with greatest heroine-power (strength) among the Elisabeth species, but really????<U+300C>...Let me just warn you I will kill you if you call me a cheap knockoff.<U+300D>",
     "item": "B Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\nB Pellet: 1\n\n",
-    "alias": ["mk II", "mecha eli mk II", "mecha eli-chan mk II", "Mecha eli-chan Mk.II", "mecha eli II", "mecha eli", "mecha liz II", "mecha liz mk II", "mecha liz"],
+    "alias": ["mk II", "mecha eli mk II", "mecha eli-chan mk II", "Mecha eli-chan Mk.II", "mecha eli II", "mecha eli", "mecha liz II", "mecha liz mk II"],
     "sex": "F"
   },
   "192": {
