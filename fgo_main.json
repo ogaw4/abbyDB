@@ -1634,7 +1634,7 @@
     "alignment": "Chaotic Neutral",
     "desc": "Mordred is a Knight of the Round Table and the legitimate child of King Arthur. At the same time, the one who put an end to the legend-- at Camlann Hill, the Knight of Rebellion who slew King Arthur.",
     "item": "Saber Piece: 5\n\nDragon Fang: 18\nSaber Piece: 12\n\nHeart of the Foreign God: 2\nOctuplet Crystals: 10\nSaber Monument: 5\n\nDragon's Reverse Scale: 5\nHeart of the Foreign God: 4\nSaber Monument: 12\n\n",
-    "alias": ["moedred", "mordred", "saber mordred"],
+    "alias": ["moedred", "mordred", "saber mordred", "mosan"],
     "sex": "F"
   },
   "077": {
@@ -2810,7 +2810,7 @@
     "alignment": "Chaotic Good",
     "desc": "Summer! Sea! Surfer!Yahooooooo!As you can see, a super ultra surfer who was born in a burst of laughter - Mordred, bikini-style.For short, Miss Su-Mor, or rather Miss Surfer Mor.Having been summoned as a Rider instead of Saber this time around, she has not brought Clarent with her.Not only that, she has not even brought her armor and helmet with her.",
     "item": "Rider Piece: 4\n\nRider Piece: 10\nShell of Reminiscence: 6\n\nRider Monument: 4\nGreat Knight Medal: 16\nDragon Fang: 10\n\nRider Monument: 10\nDragon Fang: 20\nDragon's Reverse Scale: 4\n\n",
-    "alias": ["rider mordred", "rider moedred", "swimsuit mordred", "swimsuit moedred", "summer mordred", "summer moedred"],
+    "alias": ["rider mordred", "rider moedred", "swimsuit mordred", "swimsuit moedred", "summer mordred", "summer moedred", "samosan"],
     "sex": "F"
   },
   "133": {
