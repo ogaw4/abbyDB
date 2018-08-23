@@ -479,7 +479,7 @@
     "alignment": "Lawful Neutral",
     "desc": "The king of Sparta, the country that became root word for the term spartan training. In order to hold back an invading Persian army of 100,000 soldiers, he stood up with merely 300 men - the famous Battle of Thermopylae.",
     "item": "Lancer Piece: 3\n\nClaw of Chaos: 3\nLancer Piece: 6\n\nVoid's Dust: 10\nOctuplet Crystals: 3\nLancer Monument: 3\n\nOctuplet Crystals: 5\nEvil Bone: 18\nLancer Monument: 6\n\n",
-    "alias": ["leonidas", "leonidas I", "sparta"],
+    "alias": ["leonidas", "leonidas I", "sparta", "leo"],
     "sex": "M"
   },
   "022": {
@@ -1907,7 +1907,7 @@
     "alignment": "Chaotic Good",
     "desc": "Beowulf is the protagonist of <U+FF62>Beowulf<U+FF63>, said to be the oldest epic poem of English literature.The setting of the epic poem amounts to south of modern Sweden to the vicinity of Denmark.",
     "item": "Berserker Piece: 4\n\nBerserker Piece: 10\nProof of Hero: 18\n\nBerserker Monument: 4\nOctuplet Crystals: 8\nDragon's Reverse Scale: 2\n\nBerserker Monument: 10\nDragon's Reverse Scale: 4\nEvil Bone: 30\n\n",
-    "alias": ["beowulf"],
+    "alias": ["beowulf", "beo"],
     "sex": "M"
   },
   "090": {
@@ -2096,7 +2096,7 @@
     "alignment": "Chaotic Evil",
     "desc": "A brave warrior from Celtic, Ulster mythology. A member of the Knights of the Red Branch and the strongest warrior in Ulster, a hero who won fame by employing the invincible magic spear received from the leader of the underworld Scáthach. Unlike normal, he has manifested as a Berserker. By some sort of cause, the equipment all over his body has changed and his personality inverted.",
     "item": "Berserker Piece: 5\n\nBerserker Piece: 12\nEvil Bone: 22\n\nBerserker Monument: 5\nClaw of Chaos: 6\nHeart of the Foreign God: 2\n\nBerserker Monument: 12\nHeart of the Foreign God: 4\nTearstone of Blood: 8\n\n",
-    "alias": ["cu alter", "cu chulainn (alter)"],
+    "alias": ["cu alter", "cu chulainn (alter)", "cu", "cuzilla", "alter cu"],
     "sex": "M"
   },
   "099": {
