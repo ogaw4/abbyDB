@@ -2495,7 +2495,7 @@
     "alignment": "Neutral Evil",
     "desc": "Fuuma Clan. Their original name derivates from that of their village, which was Kazama, and they would normally earn provisions through hunting, lumberjacking and cultivating small fields. However, upon taking up a mission, they would call themselves <U+FF62>Fuuma<U+FF63> and have their dreadfulness become known across the land. Fumma Koutarou was their fifth chief and served successor of Houjou Souun - Ujitsuna.",
     "item": "Assassin Piece: 4\n\nAssassin Piece: 8\nEvil Bone: 15\n\nAssassin Monument: 4\nVoid's Dust: 13\nOctuplet Crystals: 4\n\nAssassin Monument: 8\nOctuplet Crystals: 7\nBlack Beast Grease: 5\n\n",
-    "alias": ["fuuma", "kotarou", "fuuma evil-wind kotarou"],
+    "alias": ["fuuma", "kotarou", "fuuma evil-wind kotarou", "kotaro", "ero protag"],
     "sex": "M"
   },
   "118": {
@@ -2873,7 +2873,7 @@
     "alignment": "Lawful Good",
     "desc": "With a single iron fist, she splits steel.With a single strong fist, she pierces even a dragon.Carrying the words of the messiah (that person) in her heart, even now she has not forgotten the oath of a holy maiden.---this body surely exists for the sake of the people.That aside, I won't allow a slacken life-style just because it is summer!",
     "item": "Saber Piece: 4\nRider Piece: 4\nBerserker Piece: 4\n\nArcher Piece: 4\nLancer Piece: 4\nCaster Piece: 4\nAssassin Piece: 4\n\nSaber Monument: 4\nRider Monument: 4\nBerserker Monument: 4\n\nArcher Monument: 4\nLancer Monument: 4\nCaster Monument: 4\nAssassin Monument: 4\n\n",
-    "alias": ["ruler martha", "martha ruler", "swimsuit martha", "summer martha", "punch saint"],
+    "alias": ["ruler martha", "martha ruler", "swimsuit martha", "summer martha", "punch saint", "martha summer"],
     "sex": "F"
   },
   "136": {
@@ -2999,7 +2999,7 @@
     "alignment": "Chaotic Good",
     "desc": "Jeanne Alter was born thanks to Gilles de Rais making a wish to the Holy Grail, Jeanne d'Arc Alter Lily was born thanks to her drinking King Gilgamesh’s shady medicine, and she became Jeanne D’Arc Alter Santa Lily upon aiming for Santa Claus.Surely, Alter-chan is the second!......somebody should stop her any time soon.",
     "item": "Gilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\nGilles de Rais Doll: 1\n\n",
-    "alias": ["janta", "jailter", "jalter lily", "jeanne d'arc alter santa lily"],
+    "alias": ["janta", "jailter", "jalter lily", "jeanne d'arc alter santa lily", "santa lily"],
     "sex": "F"
   },
   "142": {
@@ -3713,7 +3713,7 @@
     "alignment": "Neutral Summer",
     "desc": "The summer season arrived!<U+FF62>Hot! Languid! Listless!<U+FF63>Seeking some refreshingness, the cyborg Fran-chan (who weak in the summer) changes into a swimsuit and challenges a race.Her partners are a shady a 50-years-old man and the trans-morphing giant robot Babbage.This is like a super epic movie of summer season!",
     "item": "Saber Piece: 4\n\nSaber Piece: 10\nProof of Hero: 18\n\nSaber Monument: 4\nBlack Beast Grease: 5\nOctuplet Crystals: 4\n\nSaber Monument: 10\nOctuplet Crystals: 8\nEternal Gear: 10\n\n",
-    "alias": ["saber fran", "swimsuit fran", "summer fran", "frankenstein", "summer frankenstein"],
+    "alias": ["saber fran", "swimsuit fran", "summer fran", "frankenstein", "summer frankenstein", "fran summer"],
     "sex": "F"
   },
   "177": {
