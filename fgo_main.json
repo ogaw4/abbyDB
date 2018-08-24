@@ -1340,7 +1340,7 @@
     "alignment": "Neutral Evil",
     "desc": "A good-wife-aspirant, extravagant miko shaman. In the deathbed of the Heian Period, this peerless beauty served the retired emperor Toba. It has been said that she is the disguised appearance of the nine-tailed fox Hakumen Kinmou. For a number of reasons, in the end she was chased away from the imperial court and, after having a major decisive battle with humans in the fields of Nasu, obediently let herself be exterminated, or something.",
     "item": "Caster Piece: 5\n\nGhost Lantern: 8\nCaster Piece: 12\n\nEvil Bone: 29\nHeart of the Foreign God: 2\nCaster Monument: 5\n\nForbidden Page: 12\nHeart of the Foreign God: 4\nCaster Monument: 12\n\n",
-    "alias": ["tamamo", "tamamo no mae", "tamamo-no-mae", "caster tamamo", "tamacaster", "casko"],
+    "alias": ["tamamo", "tamamo no mae", "tamamo-no-mae", "caster tamamo", "tamacaster", "casko", "mikon"],
     "sex": "F"
   },
   "063": {
@@ -3566,7 +3566,7 @@
     "alignment": "Lawful Neutral",
     "desc": "...I see.So I, ended up being called...fuh...(sigh).The right person in the right place, you should know this saying.Rather than the battlefield, your room would be--",
     "item": "Caster Piece: 5\n\nCaster Piece: 12\nPhoenix Feather: 6\n\nCaster Monument: 5\nSerpent Jewel: 8\nLamp of Evil-Sealing: 3\n\nCaster Monument: 12\nLamp of Evil-Sealing: 6\nChichi Divine Wine: 5\n\n",
-    "alias": ["scher", "scheherazade", "fuyajo caster"],
+    "alias": ["scher", "scheherazade", "fuyajo caster", "schez"],
     "sex": "F"
   },
   "170": {
