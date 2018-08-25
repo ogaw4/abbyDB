@@ -1424,7 +1424,7 @@
     "alignment": "Chaotic Evil",
     "desc": "Anne Bonny and Mary Read are female pirates who existed during the Golden Age of Piracy. Having met by chance, the two endeavored as pirates under the command of captain John Rackham. It has been said that Anne was an expert of the rifle, while Mary was in charge of raiding with a cutlass.",
     "item": "Rider Piece: 4\n\nHomunculus Baby: 6\nRider Piece: 10\n\nGhost Lantern: 8\nEvil Bone: 12\nRider Monument: 4\n\nClaw of Chaos: 6\nEvil Bone: 24\nRider Monument: 10\n\n",
-    "alias": ["anne", "mary", "anne & mary", "anne and mary", "anne bonny & mary read"],
+    "alias": ["mary", "anne & mary", "anne and mary", "anne bonny & mary read"],
     "sex": "F"
   },
   "067": {
@@ -2789,7 +2789,7 @@
     "alignment": "Chaotic Neutral",
     "desc": "Anne Bonny and Mary Read. An uncommon pair of female pirates, but this time they appear care freely on swimsuits. With a <U+FF62>Bonny!<U+FF63> feeling, Anne assaults the Master in a high exposure degree swimsuit, while Mary sulks in dere with a physique that has a <U+FF62>Read!<U+FF63> feeling - turning into a pincer attack.",
     "item": "Archer Piece: 4\n\nArcher Piece: 10\nSerpent Jewel: 5\n\nArcher Monument: 4\nOctuplet Crystals: 8\nShell of Reminiscence: 4\n\nArcher Monument: 10\nShell of Reminiscence: 8\nClaw of Chaos: 6\n\n",
-    "alias": ["swimsuit anne and mary", "swimsuit anne & mary", "archer anne and mary", "archer anne & mary", "anne mary", "summer anne mary", "summer anne and mary"],
+    "alias": ["swimsuit anne and mary", "swimsuit anne & mary", "archer anne and mary", "archer anne & mary", "anne mary", "summer anne mary", "summer anne and mary", "swimsuit anne", "summer anne"],
     "sex": "F"
   },
   "132": {
