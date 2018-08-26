@@ -1,15 +1,15 @@
 {
   "jp-missions": [
-    "Do 30 FP Summons",
-    "Defeat 8 Servants",
-    "Defeat 3 Saber, Archer or Lancer Servants",
-    "Defeat 3 Rider, Caster, Asassin or Berserker Servants",
-    "Defeat 15 enemies with Earth attribute", 
-    "Defeat 15 enemies with Man attribute"
+    "Defeat 30 enemies (Servants and some bosses excluded)",
+    "Defeat 15 Humanoid enemies",
+    "Acquire 2 Skill Gems, Pieces and Monuments of any kind",
+    "Acquire 4 Skill Gems, Pieces and Monuments of any kind",
+    "Complete 5 quests", 
+    "Complete 10 quests"
   ], 
   "jp-rec": [
-    "Fuyuki X-F (Hassan - Assassin, Man; Benkei - Lancer, Man; Skeleton - Man)",
-    "Fuyuki Cavern (Salter - Saber, Man; Dragon Tooth Warrior - Earth)"
+    "Training Grounds dailies (Gems, Pieces, Monuments)",
+    "Orleans - Marseille (Humanoid enemies)"
   ], 
   "na-missions": [
     "Defeat 15 Door-type enemies",
