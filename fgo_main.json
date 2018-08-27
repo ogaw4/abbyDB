@@ -3548,6 +3548,26 @@
     "alias": ["kiara", "Sessyoin Kiara", "lewd nun", "nun"],
     "sex": "F"
   },
+  "168": {    
+      "rarity": "5",
+      "attacks": "0102020303",
+      "id": "168",
+      "name": "Beast III/R",
+      "servantClass": "Beast III",
+      "cost": "16",
+      "baseHP": "2,745",
+      "baseATK": "2,121",
+      "maxHP": "18,720",
+      "maxATK": "13,728",
+      "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1681.png",
+      "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=168",
+      "note": "Enemy Servant",
+      "NP": "(Arts)\nSukhavati - Heaven's Hole  \nThird Heterodoxy Pleasure Deva of Deliberate Overwhelming Joy\nDeal heavy damage to all enemiesInflict NP Seal (1 turn)Inflict Skill Seal (1 turn)Restore own HP\nTarget: All Enemies",
+      "alignment": "Unknown",
+      "desc": "A new deva (god) calling herself Third Heterodoxy Pleasure Deva of Deliberate Overwhelming Joy, and one of the human vices that took shape in <U+FF62>FGO<U+FF63>.  The true boss of <U+FF62>Fate/EXTRA CCC<U+FF63>. Over there, she used BB to absorb the Mooncell and metamorphose into a genuine demon. The Mara (horns) growing from her head is that of a heavenly demon. In other words, they indicate that this individual is the antagonist of the enlightened.",
+      "item": "None",
+      "alias": ["beast III/R", "beast III", "heaven's hole"]
+    },
   "169": {
     "rarity": "5",
     "attacks": "0102020203",
