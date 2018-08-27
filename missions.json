@@ -12,19 +12,15 @@
     "Orleans - Marseille (Humanoid enemies)"
   ], 
   "na-missions": [
-    "Defeat 15 Door-type enemies",
-    "Defeat 15 Hand-type enemies",
-    "Defeat 15 Wyvern-type enemies",
-    "Defeat 15 Golem-type enemies", 
-    "Defeat 15 Assassin-class enemies", 
-    "Defeat 15 Saber-class enemies"
+    "Obtain 2 Assassin Skill Gems",
+    "Obtain 2 Saber Skill Gems",
+    "Obtain 2 Caster Skill Gems",
+    "Obtain 2 Rider Skill Gems", 
+    "Obtain 5 gems of Saber, Rider or Caster", 
+    "Obtain 5 gems of Archer, Lancer, Assassin or Berserker"
   ], 
   "na-rec": [
-    "Fuyuki X-A (Skeleton - Saber)", 
-    "Orleans Thiers (Wyvern)",
-    "Septem Gaul (Golem)",
-    "Septem Mt Etna (Ghost - Assassin)",
-    "Daily Doors",
-    "Daily Embers"
+    "Training Grounds 10 AP dailies", 
+    "REEEE DW REEEE"
   ]
 }
