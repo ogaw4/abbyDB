@@ -1,15 +1,16 @@
 {
   "jp-missions": [
-    "Defeat 30 enemies (Servants and some bosses excluded)",
-    "Defeat 15 Humanoid enemies",
-    "Acquire 2 Skill Gems, Pieces and Monuments of any kind",
-    "Acquire 4 Skill Gems, Pieces and Monuments of any kind",
-    "Complete 5 quests", 
-    "Complete 10 quests"
+    "Do 30 Friend Points Summons",
+    "Defeat 15 Saber, Archer or Lancer-class enemies (Servants and bosses excluded)",
+    "Defeat 30 Saber, Archer or Lancer-class enemies (Servants and bosses excluded)",
+    "Defeat 15 Rider, Caster, Assassin or Berserker-class enemies (Servants and bosses excluded)",
+    "Defeat 30 Rider, Caster, Assassin or Berserker-class enemies (Servants and bosses excluded)", 
+    "Defeat 8 Servants"
   ], 
   "jp-rec": [
-    "Training Grounds dailies (Gems, Pieces, Monuments)",
-    "Orleans - Marseille (Humanoid enemies)"
+    "Ember dailies",
+    "Fuyuki X-F (Servants)",
+    "Training Grounds dailies"
   ], 
   "na-missions": [
     "Obtain 2 Assassin Skill Gems (Saturday)",
