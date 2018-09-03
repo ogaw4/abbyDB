@@ -13,15 +13,17 @@
     "Training Grounds dailies"
   ], 
   "na-missions": [
-    "Obtain 2 Assassin Skill Gems (Saturday)",
-    "Obtain 2 Saber Skill Gems (Sunday)",
-    "Obtain 2 Caster Skill Gems (Friday)",
-    "Obtain 2 Rider Skill Gems (Thursday)", 
-    "Obtain 5 gems of Saber, Rider or Caster", 
-    "Obtain 5 gems of Archer, Lancer, Assassin or Berserker"
+    "Defeat 15 Bone-type enemies",
+    "Defeat 15 Ghost-type enemies",
+    "Defeat 15 Golem-type enemies",
+    "Defeat 15 Berserker-class enemies", 
+    "Defeat 15 Lancer-class enemies", 
+    "Defeat 15 Saber-class enemies"
   ], 
   "na-rec": [
-    "Training Grounds 10 AP dailies", 
-    "REEEE DW REEEE"
+    "Fuyuku X-G (Bones, Lancer, Saber)",
+    "Septem Gaul (Golem, Berserker, Lancer, Saber)",
+    "Okeanos Sea of Freedom (Golem, Berserker)", 
+    "Septem Mt. Etna (Ghosts)"
   ]
 }
