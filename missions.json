@@ -1,16 +1,14 @@
 {
   "jp-missions": [
-    "Do 30 Friend Points Summons",
-    "Defeat 15 Saber, Archer or Lancer-class enemies (Servants and bosses excluded)",
-    "Defeat 30 Saber, Archer or Lancer-class enemies (Servants and bosses excluded)",
-    "Defeat 15 Rider, Caster, Assassin or Berserker-class enemies (Servants and bosses excluded)",
-    "Defeat 30 Rider, Caster, Assassin or Berserker-class enemies (Servants and bosses excluded)", 
-    "Defeat 8 Servants"
+    "Defeat 20 enemies (Servants and bosses excluded)",
+    "Defeat 40 enemies (Servants and bosses excluded)",
+    "Defeat 15 enemies with the [Sky/Heaven] attribute",
+    "Defeat 15 enemies with the [Earth] attribute", 
+    "Complete 5 quests with at least one Saber-class servant in your party lineup", 
+    "Complete any 10 quests in Fate/Accel Zero Order rerun"
   ], 
   "jp-rec": [
-    "Ember dailies",
-    "Fuyuki X-F (Servants)",
-    "Training Grounds dailies"
+    "Event"
   ], 
   "na-missions": [
     "Defeat 15 Bone-type enemies",
