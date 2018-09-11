@@ -11,17 +11,16 @@
     "Event"
   ], 
   "na-missions": [
-    "Defeat 15 Bone-type enemies",
-    "Defeat 15 Ghost-type enemies",
-    "Defeat 15 Golem-type enemies",
-    "Defeat 15 Berserker-class enemies", 
-    "Defeat 15 Lancer-class enemies", 
-    "Defeat 15 Saber-class enemies"
+    "Defeat 15 Male enemies",
+    "Defeat 15 Humanoid enemies",
+    "Defeat 3 Evil Servants",
+    "Defeat 3 Good Servants", 
+    "Defeat 10 Servants", 
+    "Complete Daily Quests 5 times"
   ], 
   "na-rec": [
-    "Fuyuki X-G (Bones, Lancer, Saber)",
-    "Septem Gaul (Golem, Berserker, Lancer, Saber)",
-    "Okeanos Sea of Freedom (Golem, Berserker)", 
-    "Septem Mt. Etna (Ghosts)"
+    "Fuyuki X-F (Male, Humanoid, Evil, Good, Servants)",
+    "Nerofes (clears everything but dailies)",
+    "Daily quests"
   ]
 }
