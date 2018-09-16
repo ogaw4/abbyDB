@@ -1,14 +1,15 @@
 {
   "jp-missions": [
-    "Defeat 20 enemies (Servants and bosses excluded)",
-    "Defeat 40 enemies (Servants and bosses excluded)",
-    "Defeat 15 enemies with the [Sky/Heaven] attribute",
-    "Defeat 15 enemies with the [Earth] attribute", 
-    "Complete 5 quests with at least one Saber-class servant in your party lineup", 
-    "Complete any 10 quests in Fate/Accel Zero Order rerun"
+    "Perform 30 FP Summons",
+    "Defeat 10 Servants",
+    "Defeat 20 Servants",
+    "Defeat 5 Saber or Caster Servants", 
+    "Defeat 5 Archer or Assassin Servants", 
+    "Defeat 5 Lancer, Rider or Berserker Servants"
   ], 
   "jp-rec": [
-    "Event"
+    "Gilfes",
+    "Zero"
   ], 
   "na-missions": [
     "Defeat 15 Male enemies",
