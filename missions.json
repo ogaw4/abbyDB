@@ -1,27 +1,24 @@
 {
   "jp-missions": [
-    "Perform 30 FP Summons",
-    "Defeat 10 Servants",
-    "Defeat 20 Servants",
-    "Defeat 5 Saber or Caster Servants", 
-    "Defeat 5 Archer or Assassin Servants", 
-    "Defeat 5 Lancer, Rider or Berserker Servants"
+    "Acquire 50 Potatoes from Gilfes",
+    "Acquire 50 Hot Dogs from Gilfes",
+    "Acquire 50 Burgers from Gilfes",
+    "Acquire 100 lottery tickets from Gilfes", 
+    "Complete 5 Gilfes battles", 
+    "Complete 10 Gilfes battles"
   ], 
   "jp-rec": [
-    "Gilfes",
-    "Zero"
+    "Gilfes"
   ], 
   "na-missions": [
-    "Defeat 15 Male enemies",
-    "Defeat 15 Humanoid enemies",
-    "Defeat 3 Evil Servants",
-    "Defeat 3 Good Servants", 
-    "Defeat 10 Servants", 
-    "Complete Daily Quests 5 times"
+    "Acquire 3 Gems, Magic Gems or Secret Gems of Lancer, Rider, or Saber through battles",
+    "Acquire 3 Gems, Magic Gems or Secret Gems of Berserker or Assassin through battles",
+    "Acquire 3 Gems, Magic Gems or Secret Gems of Archer or Caster through battles",
+    "Acquire 3 Pieces or Monuments of Lancer, Rider, or Saber through battles", 
+    "Acquire 3 Pieces or Monuments of Berserker or Assassin", 
+    "Acquire 3 Pieces or Monuments of Archer or Caster"
   ], 
   "na-rec": [
-    "Fuyuki X-F (Male, Humanoid, Evil, Good, Servants)",
-    "Nerofes (clears everything but dailies)",
     "Daily quests"
   ]
 }
