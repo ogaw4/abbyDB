@@ -1,24 +1,24 @@
 {
   "jp-missions": [
-    "Acquire 50 Potatoes from Gilfes",
-    "Acquire 50 Hot Dogs from Gilfes",
-    "Acquire 50 Burgers from Gilfes",
-    "Acquire 100 lottery tickets from Gilfes", 
-    "Complete 5 Gilfes battles", 
-    "Complete 10 Gilfes battles"
+    "Defeat 5 Servants",
+    "Defeat 10 Servants",
+    "Defeat 15 Undead Enemies",
+    "Complete 5 Quests with at least 1 Assassin in your party", 
+    "Complete 5 Quests with at least 1 Berserker in your party", 
+    "Complete 10 quests"
   ], 
   "jp-rec": [
-    "Gilfes"
+    "Event"
   ], 
   "na-missions": [
-    "Acquire 3 Gems, Magic Gems or Secret Gems of Lancer, Rider, or Saber through battles",
-    "Acquire 3 Gems, Magic Gems or Secret Gems of Berserker or Assassin through battles",
-    "Acquire 3 Gems, Magic Gems or Secret Gems of Archer or Caster through battles",
-    "Acquire 3 Pieces or Monuments of Lancer, Rider, or Saber through battles", 
-    "Acquire 3 Pieces or Monuments of Berserker or Assassin", 
-    "Acquire 3 Pieces or Monuments of Archer or Caster"
+    "Defeat 15 male enemies",
+    "Defeat 15 humanoid enemies",
+    "Defeat 10 wild beast enemies",
+    "Defeat 5 good servants", 
+    "Defeat 5 evil servants", 
+    "Defeat 3 dragon servants"
   ], 
   "na-rec": [
-    "Daily quests (Thu-Sat)"
+    "Event"
   ]
 }
