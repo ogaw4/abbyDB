@@ -15,7 +15,7 @@
     "note": "Starting Servant.",
     "NP": "(Arts)\nLord Chaldeas D\nVirtual Noble Phantasm Pseudo-Deployment/Cornerstone of Humanity's Doundation\nIncrease DEF of all allies (3 turns) <OVERCHARGE>Apply Damage Cut (3 turns) <LEVEL>\nTarget: All Allies",
     "alignment": "Lawful Good",
-    "desc": "The figure of Mash Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
+    "desc": "The figure of Mashu Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
     "item": "Story Unlock:2nd Singularity: Septem\n\nStory Unlock:4th Singularity: London\n\nStory Unlock:6th Singularity: Camelot\n\nStory Unlock:7th Singularity: Babylonia\n\n",
     "alias": ["mashu", "kouhai", "eggplant"],
     "sex": "F"
@@ -36,7 +36,7 @@
     "note": "Sixth Singularity: CamelotMain Quest Power Up.",
     "NP": "(Arts)\nLord Chaldeas D\nVirtual Noble Phantasm Pseudo-Deployment/Cornerstone of Humanity's Doundation\nIncrease DEF of all allies (3 turns) <OVERCHARGE>Apply Damage Cut (3 turns) <LEVEL>\nTarget: All Allies",
     "alignment": "Lawful Good",
-    "desc": "The figure of Mash Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
+    "desc": "The figure of Mashu Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
     "item": "Story Unlock:2nd Singularity: Septem\n\nStory Unlock:4th Singularity: London\n\nStory Unlock:6th Singularity: Camelot\n\nStory Unlock:7th Singularity: Babylonia\n\n",
     "alias": ["mashu", "kouhai", "eggplant"],
     "sex": "F"
@@ -57,7 +57,7 @@
     "note": "Lostbelt No.1: AnastasiaMain Quest Alternate Setup.",
     "NP": "(Arts)\nMold Camelot D\nCastle of Transient Dreams\nIncrease DEF of all allies (3 turns) <OVERCHARGE>Apply Damage Cut (3 times, 5 turns) <LEVEL>\nTarget: All Allies",
     "alignment": "Lawful Good",
-    "desc": "The figure of Mash Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
+    "desc": "The figure of Mashu Kyrielight, a Chaldean clerk, who underwent a possession union with a Servant. A so-called Demi-Servant.",
     "item": "Story Unlock:2nd Singularity: Septem\n\nStory Unlock:4th Singularity: London\n\nStory Unlock:6th Singularity: Camelot\n\nStory Unlock:7th Singularity: Babylonia\n\n",
     "alias": ["mashu", "kouhai", "eggplant"],
     "sex": "F"
@@ -78,7 +78,7 @@
     "note": "",
     "NP": "(Buster)\nExcalibur A (A++)\nSword of Promised Victory\nDeal heavy damage to all enemies <LEVEL>Increase own NP gauge <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Lawful Good",
-    "desc": "The legendary king of Britain, also known as the King of Knights. Altria is her childhood name and, upon being raised as a king, she began to be called King Arthur. In an age when chivalry had lost its beauty, with a holy sword in her hands, she brought about a brief moment of peace and final prosperity to Britain. Historicaly recorded as a man, but it seems that in this world she was a cross-dressing beauty.",
+    "desc": "The legendary king of Britain, also known as the King of Knights. Artoria is her childhood name and, upon being raised as a king, she began to be called King Arthur. In an age when chivalry had lost its beauty, with a holy sword in her hands, she brought about a brief moment of peace and final prosperity to Britain. Historicaly recorded as a man, but it seems that in this world she was a cross-dressing beauty.",
     "item": "Saber Piece: 5\n\nDragon Fang: 18\nSaber Piece: 12\n\nPhoenix Feather: 4\nProof of Hero: 29\nSaber Monument: 5\n\nPhoenix Feather: 8\nDragon's Reverse Scale: 5\nSaber Monument: 12\n\n",
     "alias": ["saber", "artoria", "arturia", "artoria saber", "artoria pendragon", "arturia pendragon"],
     "sex": "F"
@@ -99,7 +99,7 @@
     "note": "Singularity F: Fuyuki must be completed before she becomes available as a Story Summon.",
     "NP": "(Buster)\nExcalibur Morgan A++\nSword of Promised Victory\nDeal heavy damage to all enemies <LEVEL>Increase own NP gauge <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Lawful Evil",
-    "desc": "Having been violated by the curse of the Holy Grail, the side of the King of Knights that persists in being heartless. Maybe, the <U+FF62>ideal king<U+FF63> that King Arthur pursued was something like that after all. Altria used to contain her own power, but in this condition she wields powerful magical energy without hesitation.",
+    "desc": "Having been violated by the curse of the Holy Grail, the side of the King of Knights that persists in being heartless. Maybe, the <U+FF62>ideal king<U+FF63> that King Arthur pursued was something like that after all. Artoria used to contain her own power, but in this condition she wields powerful magical energy without hesitation.",
     "item": "Saber Piece: 4\n\nDragon Fang: 15\nSaber Piece: 10\n\nDragon's Reverse Scale: 2\nClaw of Chaos: 5\nSaber Monument: 4\n\nDragon's Reverse Scale: 4\nHeart of the Foreign God: 4\nSaber Monument: 10\n\n",
     "alias": ["saber alter", "artoria pendragon alter", "arturia pendragon alter", "edgy saber", "salter", "artoria alter"],
     "sex": "F"
@@ -120,7 +120,7 @@
     "note": "Saber Wars Event and Pre-Registration Campaign",
     "NP": "(Buster)\nCaliburn B\nGolden Sword of the Victorious\nDeal heavy damage to all enemies <LEVEL>Restores HP <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Lawful Good",
-    "desc": "The figure of Altria from after she drew out the sword of selection Caliburn, and had just began walking down the path of a king. A female knight who is still somewhat half-assed. Such figure is much like that of a lovely lily, and also, her eyes are filled with glittering hope. While wandering around all over the country in order to experience many things, she left behind many adventure stories. It seems that those she saved praised her flamboyance as a knight-princess.",
+    "desc": "The figure of Artoria from after she drew out the sword of selection Caliburn, and had just began walking down the path of a king. A female knight who is still somewhat half-assed. Such figure is much like that of a lovely lily, and also, her eyes are filled with glittering hope. While wandering around all over the country in order to experience many things, she left behind many adventure stories. It seems that those she saved praised her flamboyance as a knight-princess.",
     "item": "Saber Piece: 4\n\nProof of Hero: 18\nSaber Piece: 10\n\nSeed of Yggdrassil: 5\nDragon Fang: 20\nSaber Monument: 4\n\nSeed of Yggdrassil: 10\nDragon's Reverse Scale: 4\nSaber Monument: 10\n\n",
     "alias": ["artoria lily", "saber lily", "arturia lily"],
     "sex": "F"
@@ -1569,7 +1569,7 @@
     "note": "Christmas 2015 Event",
     "NP": "(Buster)\nExcalibur Morgan A++\nSword of Promised Victory\nDeal heavy damage to all enemies <LEVEL>Increase own NP gauge <OVERCHARGE>\nTarget: All Enemies",
     "alignment": "Lawful Good",
-    "desc": "A form taken by Altria Alter, who resolved herself to wiping out her own image and attempted to carry out activities as the ally of children - Santa Claus. The sack she holds in her hand is packed with the best-selection of presents that she spent a whole year saving up.",
+    "desc": "A form taken by Artoria Alter, who resolved herself to wiping out her own image and attempted to carry out activities as the ally of children - Santa Claus. The sack she holds in her hand is packed with the best-selection of presents that she spent a whole year saving up.",
     "item": "Chicken Bucket: 1\n\nChicken Bucket: 1\n\nChicken Bucket: 1\n\nChicken Bucket: 1\n\n",
     "alias": ["santa alter", "artoria pendragon santa alter"],
     "sex": "F"
@@ -1840,7 +1840,7 @@
     "image": "http://fate-go.cirnopedia.org/icons/servant/servant_0861.png",
     "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=086",
     "note": "Limited Pickup Summon",
-    "NP": "(Quick)\nSecret Calibur A++\nUnsigned Sword of Victory\nDeal significant damage to a single enemy <LEVEL>Special Attack [Altria Face] <OVERCHARGE>\nTarget: Enemy",
+    "NP": "(Quick)\nSecret Calibur A++\nUnsigned Sword of Victory\nDeal significant damage to a single enemy <LEVEL>Special Attack [Artoria Face] <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Chaotic Good",
     "desc": "A stranger that came visiting from a mysterious dimension called Servant Universe.Claiming to be the definitive edition of the Saber Class, an Anti-Saber Decisive Weapon that fair and square performs surprise attacks as a knight.",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nDragon Fang: 18\n\nAssassin Monument: 5\nPhoenix Feather: 8\nDragon's Reverse Scale: 2\n\nAssassin Monument: 12\nDragon's Reverse Scale: 4\nProof of Hero: 36\n\n",
@@ -2745,7 +2745,7 @@
     "note": "Limited Pickup Summon",
     "NP": "(Arts)\nExcalibur Vivian A\nSword of Radiant Sunlight Victory\nDeal significant damage to a single enemy <LEVEL>Chance to decrease NP chargeIncrease own NP gauge <OVERCHARGE>\nTarget: Enemy",
     "alignment": "Lawful Good",
-    "desc": "A king of the beach that descended on the summer sea. Since all the duties as a king were left behind at the office in this occasion, she is completely adapting to the summer's sunlight. As she was not able to fully enjoy swimming due certain circumstances, Altria was having fun with watermelon splitting at the beach when she met the water blitz (a survival game using water guns), and turned out like this by the time anyone noticed. It goes without saying that she, who hates to lose, is aiming at becoming world champion.---at that day, she met her (relatively trivial) fate.",
+    "desc": "A king of the beach that descended on the summer sea. Since all the duties as a king were left behind at the office in this occasion, she is completely adapting to the summer's sunlight. As she was not able to fully enjoy swimming due certain circumstances, Artoria was having fun with watermelon splitting at the beach when she met the water blitz (a survival game using water guns), and turned out like this by the time anyone noticed. It goes without saying that she, who hates to lose, is aiming at becoming world champion.---at that day, she met her (relatively trivial) fate.",
     "item": "Archer Piece: 5\n\nArcher Piece: 12\nShell of Reminiscence: 8\n\nArcher Monument: 5\nDragon Fang: 24\nGreat Knight Medal: 10\n\nArcher Monument: 12\nGreat Knight Medal: 20\nDragon's Reverse Scale: 5\n\n",
     "alias": ["archuria", "squirtoria", "swimsuit artoria", "artoria pendragon archer", "summer artoria", "summer arturia"],
     "sex": "F"
