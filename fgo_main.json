@@ -3258,7 +3258,7 @@
     "rarity": "5",
     "attacks": "0102030303",
     "id": "154",
-    "name": "“First Hassan”",
+    "name": "First Hassan",
     "servantClass": "Assassin",
     "cost": "16",
     "baseHP": "1,956",
@@ -3272,7 +3272,7 @@
     "alignment": "Lawful Evil",
     "desc": "An assassin that wears a skull mask. Regarded as the first Hassan Sabbah, who was born when the name <U+300E>Old Man of the Mountain<U+300F> changed into a title, after the assassination cult became established as assassins. However, it has been said that neither the other 18 Hassans nor the followers of the cult knew this individual’s true identity and that no evidence that he truly existed could be found anywhere. A legendary assassin, said to appear when the Hassan Sabbah of that generation err in his way so to sever his head. In other words, a Hassan that kills other Hassans.",
     "item": "Assassin Piece: 5\n\nAssassin Piece: 12\nEvil Bone: 22\n\nAssassin Monument: 5\nFool's Chain: 29\nCursed Beast Gallstone: 2\n\nAssassin Monument: 12\nCursed Beast Gallstone: 4\nVoid's Dust: 24\n\n",
-    "alias": ["gramps", "old man of the mountain", "king hassan", "kh", "jiji"],
+    "alias": ["gramps", "old man of the mountain", "king hassan", "kh", "jiji", "first hassan"],
     "sex": "M"
   },
   "155": {
