@@ -5205,7 +5205,7 @@
     "alignment": "Lawful Good",
     "desc": "That apple dude",
     "item": "Archer Piece: 4\n\nArcher Piece: 8\nSeed of Yggdrassil: 5\n\nArcher Monument: 4\nFool's Chain: 20\nPrimordial Lanugo: 2\n\nArcher Monument: 8\nPrimordial Lanugo: 4\nSpirit Root: 4\n\n",
-    "alias": "william tell", 
+    "alias": ["william tell"], 
 	"sex": "M"
   },
   "247": {
@@ -5373,7 +5373,7 @@
     "alignment": "Lawful Good",
     "desc": "DW ruining memes",
     "item": "Saber Piece: 2\n\nSaber Piece: 4\nDragon Fang: 6\n\nSaber Monument: 2\nProof of Hero: 10\nPhoenix Feather: 2\n\nSaber Monument: 4\nPhoenix Feather: 3\nPrimordial Lanugo: 3\n\n",
-    "alias": "jason",
+    "alias": ["jason"],
 	"sex": "M"
   },
   "255": {
@@ -5394,7 +5394,7 @@
     "alignment": "True Neutral",
     "desc": "cute archer girl",
     "item": "Archer Piece: 3\n\nArcher Piece: 6\nSeed of Yggdrassil: 5\n\nArcher Monument: 3\nDeadly Poisonous Needle: 12\nClaw of Chaos: 2\n\nArcher Monument: 6\nClaw of Chaos: 3\nSpirit Root: 3\n\n",
-    "alias": "paris",
+    "alias": ["paris"],
 	"sex": "?"
   },
   "256": {
@@ -5415,7 +5415,7 @@
     "alignment": "Lawful Good",
     "desc": "cutest lancer",
     "item": "3\n\n6\n\n3\n\n6\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t2\n\n",
-    "alias": "gareth",
+    "alias": ["gareth"],
 	"sex": "F"
   },
   "257": {
